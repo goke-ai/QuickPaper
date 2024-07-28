@@ -1,0 +1,1197 @@
+Jiachen Ma, Yabin Zhang, Yan Zhang, Luqing Zhang, Shuxiang Zhang, Xuchuan Jiang, Hong Liu,
+Constructing nanocomposites with robust covalent connection between nanoparticles and polymer for high discharged energy density and excellent tensile properties,
+Journal of Energy Chemistry,
+Volume 68,
+2022,
+Pages 195-205,
+ISSN 2095-4956,
+https://doi.org/10.1016/j.jechem.2021.11.022.
+(https://www.sciencedirect.com/science/article/pii/S2095495621006264)
+Abstract: High discharged energy density and excellent flexible properties in dielectric materials are significantly sought to meet the rapid advancements in the electronics industry. In this study, covalent bonds are constructed between poly(vinylidene fluoride-chlorotrifluoroethylene), which contains olefinic bonds, and thiol-modified BaTiO3 at the interface before the nanocomposite films are fabricated. The presence of the covalent bonds is proved to promote the dispersibility of the modified BaTiO3 and enhance the interfacial adhesion between the modified BaTiO3 and the polymer, followed by a remarkably positive effect in suppressing the dielectric loss (tanδ) and increasing the breakdown strength (Eb) of the nanocomposite films. In addition, the cross-linking treatment in the preparation process is found to be favourable for improving the mechanical properties of the nanocomposite films, which benefits the enhancement of Eb. Furthermore, at 400% elongation, the stretched nanocomposite film doped with 5 vol% modified BaTiO3 exhibits an Eb 15.6% greater than that of the unstretched film, and the discharged energy density reaches 11.4 J/cm3 with a high discharge energy efficiency of 84.5%. This study provides a novel strategy for preparing flexible nanocomposites with powerful interfacial adhesion at high filler content to achieve high discharged energy density.
+Keywords: Dielectric materials; Energy density; Mechanical properties; Interfacial adhesion; Breakdown strength
+
+M. Cen-Puc, G. Pool, F. Avilés, A. May-Pat, S. Flores, J. Lugo, G. Torres, L. Gus, A.I. Oliva, J.E. Corona,
+A dedicated electric oven for characterization of thermoresistive polymer nanocomposites,
+Journal of Applied Research and Technology,
+Volume 14, Issue 4,
+2016,
+Pages 268-277,
+ISSN 1665-6423,
+https://doi.org/10.1016/j.jart.2016.06.004.
+(https://www.sciencedirect.com/science/article/pii/S166564231630061X)
+Abstract: The construction, characterization and control of an electric oven dedicated to the study of thermoresistive polymer nanocomposites is presented. The oven is designed with a heating plate capable of reaching 300°C with a resolution of 0.3°C and an area of uniform temperature of 3.8cm×2.5cm. The temperature is regulated by means of a discrete proportional–integral–derivative controller. A heat transfer model comprising three coupled non-linear differential equations is proposed to predict the thermal profiles of the oven during heating and cooling, which are experimentally verified. The oven is used for thermoresistive characterization of polymer nanocomposites manufactured from a polysulfone polymer and multiwall carbon nanotubes.
+Keywords: Electric oven; Discrete PID controller; Polymer nanocomposite; Thermoresistive
+
+Sohini Chakraborty, Amal Raj M, N.L. Mary,
+Biocompatible supercapacitor electrodes using green synthesised ZnO/Polymer nanocomposites for efficient energy storage applications,
+Journal of Energy Storage,
+Volume 28,
+2020,
+101275,
+ISSN 2352-152X,
+https://doi.org/10.1016/j.est.2020.101275.
+(https://www.sciencedirect.com/science/article/pii/S2352152X19313921)
+Abstract: In the era of rapid decline of renewable sources of energy, novel supercapacitor materials are essential to provide impetus to the growing energy demands arising from the commercialization of technology towards an electric-powered future which aims at both efficient and sustainable use of energy. The inspiration is to develop materials that effect specific applications without causing any damage to the environment. The use of inherently non-conducting but biocompatible polymers that can be functionally modified are thus imperative in this respect. Here, styrene maleic anhydride (SMA) copolymer has been structurally modified with a thiadiazole moiety along with the incorporation of green synthesized ZnO nanoparticles to prepare a polymer nanocomposite. The green synthesized ZnO nanoparticles display a flake-like structure with a size of about 20 nm. UV, FT-IR and XRD analyses validates the incorporation of ZnO in to the polymer matrix to form the polymer nanocomposite. Satisfactory supercapacitor behaviour with a specific capacitance of 268.5 F g−1 at 0.1 A g−1 is estimated for the polymer nanocomposite which is larger than ZnO nanoparticles and the bare polymer. It is demonstrated that the innate conductivity of the SMA copolymer is enhanced upon modification. The materials also exhibit good cycling stability with maximum capacitance retention. The biocompatibility of the nanocomposites has been established from the preliminary cell viability studies performed on 3T6 mouse fibroblast cells. The developed material shows great promise to provide a green alternative to existing supercapacitors.
+Keywords: Green synthesis; Structural modification; Specific capacitance; Copolymer; Nanoparticles; Cell viability
+
+Lei Liu, Menghe Zhu, Yongqian Shi, Xiaodong Xu, Zhewen Ma, Bin Yu, Shenyuan Fu, Guobo Huang, Hao Wang, Pingan Song,
+Functionalizing MXene towards highly stretchable, ultratough, fatigue- and fire-resistant polymer nanocomposites,
+Chemical Engineering Journal,
+Volume 424,
+2021,
+130338,
+ISSN 1385-8947,
+https://doi.org/10.1016/j.cej.2021.130338.
+(https://www.sciencedirect.com/science/article/pii/S1385894721019240)
+Abstract: Thermoplastic polyurethane (TPU) features many important industrial applications, but intrinsic flammability extremely impedes its practical applications. Current fire-retardant strategies often lead to improved flame retardancy but reduced mechanical properties (strength, ductility, and toughness). Hence, to date it has been unsuccessful to design advanced TPU materials that are strong, stretchable, tough, fatigue-and fire-resistant to meet increasing performance portfolio requirements. Here, we report a hybridized fire retardant (Zr-MXene) by in situ facilely loading zirconium amino-tris-(methylenephosphonate) (Zr-AMP) onto the titanium carbide (MXene) surface. Our results show that with 1 wt% of Zr-MXene, the resultant TPU nanocomposites demonstrate a record break strain (2060%) and toughness (316 MJ/m3) to date, in addition to increased tensile strength by 43.4% and improved fatigue resistance relative to the TPU matrix, because of favorable interfacial hydrogen-bonding. Moreover, the resultant TPU material exhibit significantly reduced flammability as a result of the combined physical barrier, catalytical carbonization and diluting effects of Zr-MXene. This work provides a promising strategy for the creation of multifunctional MXene and its polymeric nanocomposites, which hold great promise for many industrial applications.
+Keywords: MXene; Thermoplastic polyurethane; Mechanical property; Flame retardancy; Smoke suppression
+
+S. Tamayo-Vegas, K. Lafdi,
+Experimental and modelling of temperature-dependent mechanical properties of CNT/polymer nanocomposites,
+Materials Today: Proceedings,
+Volume 57, Part 2,
+2022,
+Pages 607-614,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2022.01.480.
+(https://www.sciencedirect.com/science/article/pii/S2214785322005600)
+Abstract: Polymer-matrix composites (PMC) reinforced with nanofillers are in constant demand in various industrial applications. Among nano reinforcements, carbon nanotubes (CNT), show a unique combination of physical properties. Often, PMC/CNT composites perform under harsh operating and environmental conditions ranging from aggressive chemical attacks to high temperatures. Material characterization is critical for correct implementation in multifunctional systems. In this study, we have developed two Representative Volume Elements based on the formation of agglomeration above 2 wt% percentage of CNTs. Using finite element analysis (FEA) we studied the mechanical properties of the nanocomposites as a function of temperature. The viscoelastic properties of different percentages of nanofillers (i.e., 0.5, 1, 2, 4, 5 wt%) were derived. Experimental validation was performed with the samples containing the percentages of nanofillers. The samples were tested using Dynamic Mechanical Analysis (DMA) equipment employing the three-point bending method at a fixed frequency. The data shows that the nanofillers drastically influenced the storage, loss modulus and loss factor with a small addition of carbon nanotubes. The viscoelastic properties are presented from temperatures ranging from 40 ℃ to 120 ℃. Finally, a good agreement between the numerical and experimental approaches was found.
+Keywords: Polymer-matrix composites (PMCs); Dynamic mechanical thermal analysis; Micromechanics; Finite element analysis; Thermomechanical modelling; Carbon nanotubes
+
+Yasser Zare, Kyong Yop Rhee,
+Expansion of Kolarik model for tensile strength of polymer particulate nanocomposites as a function of matrix, nanoparticles and interphase properties,
+Journal of Colloid and Interface Science,
+Volume 506,
+2017,
+Pages 582-588,
+ISSN 0021-9797,
+https://doi.org/10.1016/j.jcis.2017.07.051.
+(https://www.sciencedirect.com/science/article/pii/S0021979717308184)
+Abstract: Kolarik proposed a model for tensile strength of polymer particulate composites based on the cubic orthogonal skeleton or three perpendicular plates (3PP) system. In this paper, Kolarik model is expanded for tensile strength of polymer nanocomposites containing spherical nanoparticles assuming the interphase properties. This model expresses the strength as a function of interphase properties. This development is performed using some models such as Pukanszky and Nicolais-Narkis. The expanded model is applied to calculate the thickness and strength of interphase by the experimental results. Furthermore, the strength of polymer nanocomposites is evaluated at different levels of material and interphase properties. The experimental data show good agreement with the predictions of the developed model.
+Keywords: Polymer particulate nanocomposites; Tensile strength; Interphase properties; Kolarik model
+
+Sumit Yadav, Poonma Malik, Praveen Malik,
+CdTe quantum dot-polymer stabilized blue phase liquid crystal nanocomposite with wide blue phase and improved electro-optical responses,
+Optical Materials,
+Volume 137,
+2023,
+113608,
+ISSN 0925-3467,
+https://doi.org/10.1016/j.optmat.2023.113608.
+(https://www.sciencedirect.com/science/article/pii/S0925346723001805)
+Abstract: In the present work, a hybrid blue phase liquid crystal material exhibiting more than 40K wide blue phase temperature range has been prepared and investigated its optical, electro-optical and dielectric properties. The hybrid material was prepared by introducing cadmium telluride quantum dots in polymer stabilized blue phase liquid crystals. The blue phase temperature range of hybrid material was also compared with other blue phase liquid crystal systems (polymer stabilized blue phase liquid crystals, quantum dots doped pure blue phase liquid crystals), which indicated that the thermal stability is significantly augmented in hybrid materials. Further, the substantial reduction in operating voltage (12.5%), improvement in transmittance and Kerr constant with three-fold increase in dielectric permittivity in quantum dots doped polymer stabilized blue phase liquid crystals were observed as the other important findings of present work. The examined hybrid materials with wide blue phase temperature range and superior electro-optical properties are expected to be important for various photonic applications.
+Keywords: Blue phase; Stabilization; Polymer; Quantum dots; Hybrid material
+
+Md Didarul Islam, Sipan Liu, Darryl A. Boyd, Yaxu Zhong, Masrur Morshed Nahid, Reece Henry, Laine Taussig, Yeongun Ko, Vinh Q. Nguyen, Jason D. Myers, Colin C. Baker, Woohong Kim, Jasbinder S. Sanghera, Evan M. Smith, John S. Derov, Xingchen Ye, Aram Amassian, Harald Ade, Jan Genzer, Jong E. Ryu,
+Enhanced mid-wavelength infrared refractive index of organically modified chalcogenide (ORMOCHALC) polymer nanocomposites with thermomechanical stability,
+Optical Materials,
+Volume 108,
+2020,
+110197,
+ISSN 0925-3467,
+https://doi.org/10.1016/j.optmat.2020.110197.
+(https://www.sciencedirect.com/science/article/pii/S0925346720305401)
+Abstract: Organically modified chalcogenide (ORMOCHALC) polymers have proven to be alternatives to the conventional inorganic materials for mid-wavelength infrared (MWIR, λ = 3–5 μm) optical components. While the refractive index of ORMOCHALC can be reinforced by the content of chalcogenides such as sulfur (S) and selenium (Se), the increased portion of the S or Se deteriorate the thermomechanical stabilities. As a remedy, this study utilizes ZnS nanoparticles to reinforce both optical and thermomechanical properties of the sulfur-based ORMOCHALC polymer, poly(S-random-1,3-diisopropenylbenzene). The refractive index n and extinction coefficient k of the nanocomposites were characterized by Infrared Variable Angle Spectroscopic Ellipsometry (IR-VASE). The results show a significant increment in the refractive index of Δn = 6.58% at the wavelength of 4 μm by adding 20 wt% ZnS (or 7.29 vol%) in the ORMOCHALC polymer. The low extinction coefficient of the nanocomposites (<0.004 at 4 μm) implies excellent applicability for optical device components. Additionally, a detailed thermogravimetric analysis (TGA) exhibits that the addition of ZnS nanoparticle significantly improves the thermomechanical stability, as the glass transition temperature (Tg) increases from 9.6 °C of the as-synthesized polymer to 31.4 °C with 20 wt% ZnS composite. The TGA also shows that material degradation occurs at a higher temperature for the ZnS reinforced polymer composite. This study demonstrates a simple, low-cost method to enhance the refractive index of ORMOCHALC materials with superior infrared transmission and thermomechanical stability that has the great potential for applications in MWIR optoelectronic devices.
+Keywords: Organically modified chalcogenide; Sulfur polymer; Refractive index tuning; Infrared optics; Nanocomposite reinforcing; Thermomechanical stability
+
+Haolin Wang, Hyunseong Shin,
+Influence of ozone functionalization of carbon nanotubes on the fracture toughness improvement of polymer nanocomposites: A multiscale study,
+Composites Part A: Applied Science and Manufacturing,
+Volume 160,
+2022,
+107067,
+ISSN 1359-835X,
+https://doi.org/10.1016/j.compositesa.2022.107067.
+(https://www.sciencedirect.com/science/article/pii/S1359835X22002524)
+Abstract: In this study, we developed a multiscale modeling framework for predicting the fracture toughness improvement of ozone functionalized carbon nanotubes (O-CNTs)/epoxy nanocomposites (NCs) due to debonding of O-CNT and plastic void growth. The proposed multiscale modeling framework was developed by combining molecular dynamics (MD), mean field (MF) homogenization and fracture mechanics theory. Based on this multiscale modeling framework, the contribution of O-CNTs to the interphase elastoplastic properties was characterized and the fracture toughness improvement was quantified through the degree of functionalization of O-CNTs at the microscale. The results demonstrated that increasing the functionalization degree of O-CNTs could effectively improve the elasticity properties of the interphase and fracture toughness of O-CNTs/epoxy NCs. We demonstrated that the interfacial fracture energy is more important compared to the elastoplastic properties of the interphase for improving the fracture toughness of O-CNTs/epoxy NCs. The multiscale modeling framework proposed in this study revealed the dependence of fracture toughness improvement on the functionalization degree of O-CNTs at the theoretical level, where a reference guide was provided for the rational design of composite structures in experiments.
+Keywords: Polymer-matrix composites (PMCs) A; Fracture toughness B; Interphase B; Multiscale modeling C
+
+Sajad Pirsa, Farrokh Asadzadeh,
+Synthesis of Fe3O4/SiO2/Polypyrrole magnetic nanocomposite polymer powder: Investigation of structural properties and ability to purify of edible sea salts,
+Advanced Powder Technology,
+Volume 32, Issue 4,
+2021,
+Pages 1233-1246,
+ISSN 0921-8831,
+https://doi.org/10.1016/j.apt.2021.02.027.
+(https://www.sciencedirect.com/science/article/pii/S0921883121000935)
+Abstract: In this study, Fe3O4/SiO2/polypyrrole magnetic nanocomposite polymer powder was chemically synthesized. The structure of the prepared composite powders were studied using scanning electron microscopy, FTIR and XRD techniques. The results showed that the prepared composites have a nanometer structure. The FTIR results confirmed the electrostatic interactions between the composite components. XRD also showed the crystal structure of Fe3O4 and its composites. Optimal nanocomposite powder was used to purify the salt of Lake Urmia. Salt samples were treated with powder and the chemical properties of salt were investigated before and after treatment. Qualitative tests performed on salt included COD, BOD, organic compounds, heavy metals, nitrate and nitrite, and color characteristics. Finally, the efficiency of the nanoparticle powder in the lake salt treatment was calculated. The results showed that the composite powder reduced BOD and COD as well as the heavy metal salts of the lake. Also, the organic compounds in the salt decreased and the color factors such as the white index of the salt increased. Under optimal conditions, Fe3O4/SiO2/PPy composite showed the best performance at 37 min of purification time. In general, Fe3O4/SiO2/PPy composite can be easily used to purify sea salts and also reduce environmental pollutants.
+Keywords: Nano magnetic powder; Fe3O4; Polypyrrole; Sea salt; Pollutant reduction
+
+S. Ningaraju, Vinayakaprasanna N. Hegde, A.P. Gnana Prakash, H.B. Ravikumar,
+Free volume dependence on electrical properties of Poly (styrene co-acrylonitrile)/Nickel oxide polymer nanocomposites,
+Chemical Physics Letters,
+Volume 698,
+2018,
+Pages 24-35,
+ISSN 0009-2614,
+https://doi.org/10.1016/j.cplett.2018.03.002.
+(https://www.sciencedirect.com/science/article/pii/S000926141830174X)
+Abstract: Polymer nanocomposites of Poly (styrene co-acrylonitrile)/Nickel Oxide (PSAN/NiO) have been prepared. The increased free volume sizes up to 0.4 wt% of NiO loading indicates overall reduction in packing density of polymer network. The decreased o-Ps lifetime (τ3) at higher concentration of NiO indicates improved interfacial interaction between the surface of NiO nanoparticles and side chain of PSAN polymer matrix. The increased AC/DC conductivity at lower wt% of NiO loading demonstrates increased number of electric charge carriers/mobile ions and their mobility. The increased dielectric constant and dielectric loss up to 0.4 wt% of NiO loading suggests the increased dipoles polarization.
+Keywords: Polymer-nanocomposites; Microstructures; Interface; Electrical properties
+
+Seulgi Kim, Yunhee Ahn, Sung Ho Song, Dongju Lee,
+Tungsten nanoparticle anchoring on boron nitride nanosheet-based polymer nanocomposites for complex radiation shielding,
+Composites Science and Technology,
+Volume 221,
+2022,
+109353,
+ISSN 0266-3538,
+https://doi.org/10.1016/j.compscitech.2022.109353.
+(https://www.sciencedirect.com/science/article/pii/S0266353822000951)
+Abstract: The synergistic effect cooperation of hybrids composed of 2D materials and metal nanoparticles have been studied extensively due to their exotic properties leading to various technological applications. We prepared tungsten nanoparticles (W NPs) decorated on boron nitride nanosheets (BNNS) hybrids and demonstrated the enhanced properties of their polyethylene (PE) nanocomposites. The uniformly decorated W NPs on the BNNS surface improved the performance by maximizing the specific surface area of the hybrids by suppressing the restacking of BNNS and aggregation of NPs. The W-BNNS/PE nanocomposites showed enhanced mechanical properties (16.4% higher yield strength and 58.1% higher elastic modulus than pure PE) and conductivity (35% higher through-plane conductivity than pure PE) due to the synergistic effects of nanoparticle anchoring and interconnection. The nanocomposites exhibited outstanding radiation shielding ability for neutron ray (4.80 cm2/g) and gamma (γ) ray (0.093 cm2/g) radiation. The results suggest that nanocomposites containing W-BNNS hybrids have good potential for application as complex radiation shielding materials.
+Keywords: Boron nitride; Nanosheets; Tungsten; Nanocomposite; Radiation shielding
+
+Gopal K. Kulkarni, Sushilkumar A. Jadhav, Komal T. Patil, Pramod S. Patil, Vijaya R. Puri,
+α-MnO2 nanorods-polyaniline (PANI) nanocomposites synthesized by polymer coating and grafting approaches for screening EMI pollution,
+Ceramics International,
+Volume 47, Issue 11,
+2021,
+Pages 15044-15051,
+ISSN 0272-8842,
+https://doi.org/10.1016/j.ceramint.2021.02.061.
+(https://www.sciencedirect.com/science/article/pii/S0272884221004090)
+Abstract: In this work, α-MnO2 nanorods-polyaniline nanocomposites were synthesized using polymer coating and grafting approaches. The synthesized nanocomposites were characterized by XRD, FESEM, EDAX, TEM, TG-DTA and FT-IR techniques. The Electromagnetic properties of prepared samples were measured using vector network analyzer in the 8–18 GHz (X and Ku-Band) frequency region. The α-MnO2-NH2-PANI nanocomposite synthesized by grafting approach showed better electrical conductivity, excellent dielectric loss with superior microwave absorption ability. In comparison with pure MnO2, the microwave absorption characteristics of α-MnO2-NH2-PANI nanocomposite display considerable improvements, with an effective absorption band at 10.8 GHz and 14.5 GHz under −10 dB and minimum reflection loss (RL) of −30.79 dB at 14.5 GHz. The α-MnO2-NH2-PANI sample also showed considerable shielding effectiveness (SE) i.e. −20.85 dB in the 8–18 GHz frequency region. The observed value of RL and SE surpasses the required value for being utilized at a commercial level. These results are surely helpful to explore the microwave absorption study of different combinations of organic/inorganic nanocomposite materials particularly for shielding and microwave absorption applications.
+Keywords: Manganese oxide; Polyaniline; Nanocomposite; Polymer grafting; Microwave absorption; Reflection loss; Shielding
+
+Mei Qun Seah, Woei Jye Lau, Pei Sean Goh, Boon Seng Ooi, Gwo Sung Lai, Ahmad Fauzi Ismail,
+Improving properties of thin film nanocomposite membrane via temperature-controlled interfacial polymerization for nanofiltration process,
+Desalination,
+Volume 545,
+2023,
+116091,
+ISSN 0011-9164,
+https://doi.org/10.1016/j.desal.2022.116091.
+(https://www.sciencedirect.com/science/article/pii/S001191642200546X)
+Abstract: Research on the effect of interfacial polymerization (IP) temperature during polyamide layer synthesis is lacking, especially for thin film nanocomposite (TFN) nanofiltration membrane. Typically, polyamide composite membranes are fabricated at room temperature, ignoring the potential impact of reaction temperature. In this work, we varied the organic solvent temperature to study its impacts on the properties of TFN membrane containing surface-functionalized graphene oxide (GO) for nanofiltration process. A more cross-linked and rougher polyamide layer could be formed at 55 °C due to higher reaction kinetics and more volatile IP reaction. This membrane exhibited excellent Na2SO4 rejection (99 %) with a water-salt permselectivity ratio of 11.0, i.e., >2 folds compared to the commercial membrane (4.88). However, its rougher surface resulted in a higher protein adhesion even with the enhanced antifouling property brought by GO hydrophilicity. In comparison, the TFN membrane developed at 0 °C displayed very thin yet smooth polyamide layer, resulting in a higher water flux and improved antifouling performance. Furthermore, the TFN membrane demonstrated stable filtration performance for 12 h and GO nanosheets were still well accommodated within selective layer after testing. Overall, the improved filtration performance and reduced protein adsorption demonstrated the feasibility of IP temperature variation in TFN membrane fabrication.
+Keywords: Thin film nanocomposite; Interfacial polymerization; Temperature; Nanofiltration; Membrane; Polyamide
+
+Gözde Koşarsoy Ağçeli,
+A new approach to nanocomposite carbohydrate polymer films: Levan and chia seed mucilage,
+International Journal of Biological Macromolecules,
+Volume 218,
+2022,
+Pages 751-759,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2022.07.157.
+(https://www.sciencedirect.com/science/article/pii/S0141813022015896)
+Abstract: Plastic pollution is increasing day by day and the search for new, environmentally friendly products continues. Herein, for the first time, different degrees of mucilage were obtained from chia seeds and the film-forming behavior of levan biopolymer with these mucilages was investigated. Glycerol and sorbitol were used as plasticizers in the film design. Films prepared with sorbitol were characterized physically, mechanically and morphologically. The antioxidant and antimicrobial effects of the films were examined. The films formed as nanocomposites of levan and chia seed mucilages obtained at different temperatures (25 °C, 55 °C and 80 °C) exhibited structurally and mechanically different properties. It was observed that the films obtained with chia mucilages and levan preserved their antibacterial properties but lost their antifungal properties. In addition, quorum sensing property of the mucilage obtained at 55 °C during the investigation of the antibacterial property was reported for the first time with this study. The levan-based chia seed mucilages films obtained have the potential to be used in industrial and medical fields, and the nature-friendly nature of these films is very important for our green world.
+Keywords: Levan; Chia seed musilage; Nanocomposite; Edible film; Antimicrobial; Antioxidant
+
+Sudhir Kumar Mishra, Dharmendra Kumar Shukla, Rabindra Kumar Patel,
+Flexural Properties of Functionally Graded Epoxy-Alumina Polymer Nanocomposite,
+Materials Today: Proceedings,
+Volume 5, Issue 2, Part 2,
+2018,
+Pages 8431-8435,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2017.11.538.
+(https://www.sciencedirect.com/science/article/pii/S2214785317328110)
+Abstract: In this work layered functionally graded polymer nanocomposite was prepared by distribution of alumina nanoparticles (diameter in between 27 – 43 nm) in the epoxy matrix through ultrasonication. Variation in weight fraction of alumina nanoparticles is given in the thickness direction to attain the gradation. Layers of 1 mm thickness of neat epoxy, 0.25 wt.%, 0.5 wt.%, 0.75 wt.% and 1 wt.% of epoxy-alumina nanocomposites were sequentially casted in a vertical acrylic moulds to synthesize the graded composite sheet of 5 mm thickness. Tensile properties of nanocomposites for each weight fraction were determined following ASTM standard D 638-03, while the flexural properties were determined for the functionally graded polymer nanocomposite (FGPNC) by conducting three point bending test loaded from neat and 1 wt.% side. Highest increment in the tensile properties was recorded for nanocomposites at 1 wt.% of nanoparticles. An improvement of 5% in tensile strength and 14% in Young's modulus was achieved over that of neat epoxy for nanocomposites with1 wt.% of nanoparticles. In case of FGPNC, flexural strength and flexural modulus improved by 10% and 23% respectively over that of neat epoxy samples when loaded from neat epoxy side. On the other hand, when samples were loaded from 1 wt.% side, flexural strength and modulus of FGPNC showed an improvement of 6% and 17% respectively in comparison to that of layered sample of neat epoxy.
+Keywords: Epoxy; Alumina nanoparticles; Polymer nanocomposites; Functionally graded materials; Tensile properties; Flexural properties
+
+Hrushikesh Shinde, Bhagwan F. Jogi,
+Some Studies on Preparation and Mechanical Characterization of Poly-aryl-ether-ketone (PAEK)/MWNT Polymer Nanocomposite (PNC),
+Procedia Manufacturing,
+Volume 20,
+2018,
+Pages 79-84,
+ISSN 2351-9789,
+https://doi.org/10.1016/j.promfg.2018.02.011.
+(https://www.sciencedirect.com/science/article/pii/S235197891830043X)
+Abstract: An advanced material with the desired mechanical properties was planned to prepare for multi-functional purpose. For this work, poly-aryl-ether-ketone (PAEK) was selected as polymeric matrix material. Nano-filler added to improve mechanical properties, various compositions were planned to prepare. Multiwalled carbon nanotube (MWNT) were planned to use as nanofiller materials to improve the desired property. The fillers were varies as 0, 0.3, 0.5 and 1 wt%. The polymer nanocomposites (PNC) were prepared by melt mixing method to improve the dispersion of nano filler material in polymer matrix phase. Further, it is planned to analyze PNC by various mechanical characterizations methods viz. tensile testing, impact testing and flexural testing. MWNT improves mechanical properties significantly at 0.5 and 1wt% of filler loading. At 0.3 wt% MWNT loading filler gets agglomerate leads to deteriorate mechanical properties. Addition of MWNT has favourable effect on the mechanical properties of PAEK polymer. Furthermore, storage modulus also shows significant improvement with the addition of MWNT.
+Keywords: Poly-aryl-ether-ketone; Multiwalled carbon nanotubes; Polymer nanocomposites
+
+Kar Chun Wong, Pei Sean Goh, Nur Diyana Suzaimi, Zhi Chien Ng, Ahmad Fauzi Ismail, Xiaoxia Jiang, Xiude Hu, Takaaki Taniguchi,
+Tailoring the CO2-selectivity of interfacial polymerized thin film nanocomposite membrane via the barrier effect of functionalized boron nitride,
+Journal of Colloid and Interface Science,
+Volume 603,
+2021,
+Pages 810-821,
+ISSN 0021-9797,
+https://doi.org/10.1016/j.jcis.2021.06.156.
+(https://www.sciencedirect.com/science/article/pii/S0021979721010407)
+Abstract: Membrane-based separation is an appealing solution to mitigate CO2 emission sustainably due to its energy efficiency and environmental friendliness. Attributed to its excellent separation endowed by nanomaterial incorporation, nanocomposite membrane is rigorously developed. This study explored the feasibility of boron nitride (BN) embedment and changes to formation mechanism of ultrathin selective layer of thin film nanocomposite (TFN) are investigated. The effects of amine-functionalization on nanosheet-polymer interaction and CO2 separation performance are also identified. Participation of nanosheets during interfacial polymerization reduced the crosslinking of selective layer, hence, improved TFN permeance while the formation of contorted diffusion paths by the nanosheets favors transport of small gases. Amine-functionalization enhanced the nanosheet-polymer interaction and elevated the membrane affinity towards CO2 which led to enhanced CO2 selectivity. The best TFN prepared in this study exhibited 37% and 20% increment in permeability and selectivity, respectively with respect to neat thin film composite (TFC). It is found that the CO2 separation performance of BN incorporated TFN is on par with many non-porous nanosheet-incorporated TFNs reported in literatures. The transport and barrier effects of BN and functionalized BN are discussed in detail to provide further insights into the development of commercially attractive CO2 selective TFN membranes.
+Keywords: Boron nitride; Amine-functionalization; Interfacial polymerization; Thin film nanocomposite; CO2 separation
+
+Xiaolin Zhou, Yangwei Jiang, Jiamin Chen, Linli He, Linxi Zhang,
+Size-dependent nanoparticle dynamics in semiflexible ring polymer nanocomposites,
+Polymer,
+Volume 131,
+2017,
+Pages 243-251,
+ISSN 0032-3861,
+https://doi.org/10.1016/j.polymer.2017.10.038.
+(https://www.sciencedirect.com/science/article/pii/S0032386117310042)
+Abstract: By employing molecular dynamics simulations, we explored different size-dependent dynamics of NPs in semiflexible linear and ring polymer nanocomposites. Large NPs diffuse faster slightly in flexible ring polymer nanocomposites than in flexible linear polymer ones. However, the motions of large NPs in semiflexible ring polymer nanocomposites with large bending energies are very slow and NPs exhibit the glassy state in which the NPs are all caged by the neighbouring semiflexible ring polymers, while large NPs in semiflexible linear polymer nanocomposites transport much faster than those in semiflexible ring polymer ones because rod-like structures of semiflexible linear polymers can favour the motions of NPs. Meanwhile, the diffusion coefficients Dpolymer of semiflexible ring polymers decrease monotonously with increasing bending energy Kb, while the minimum diffusion coefficient for semiflexible linear polymers occurs at the moderate bending energy such as Kb = 6, in which the semiflexible linear polymers hold the maximum entanglement density. NP size, polymer topological constraint as well as chain stiffness affect the dynamics of NPs in polymer nanocomposites seriously, and this investigation can help us understand the complicated dynamical behaviours for NPs in polymer nanocomposites.
+Keywords: Dynamical behavior; Nanoparticle; Semiflexible ring polymers
+
+Mohammad Soroush Abzan, Ramin Mirzaee, Shervin Ahmadi, Navid Karimpour-Motlagh, Hossein Ali Khonakdar,
+Affected Polymer Layer and Thermo-mechanical Behavior Correlation in Nylon-6/Polycarbonate/Graphene-Oxide Nanocomposites: A Quantitative Study of Polymorphism,
+Thermochimica Acta,
+Volume 703,
+2021,
+178995,
+ISSN 0040-6031,
+https://doi.org/10.1016/j.tca.2021.178995.
+(https://www.sciencedirect.com/science/article/pii/S0040603121001362)
+Abstract: The localization of Graphene-Oxide nanoparticles (GONs) in Nylon-6/Polycarbonate/GONs nanocomposites was systematically scrutinized from thermodynamic (Wettability Coefficient and Characteristic Ratio) and kinetic (two melt-mixing sequences) viewpoints. The simultaneous adsorption of N6 and PC chains on the GO surface manipulates the molecular dynamics of the adsorbed N6 chains. This retardation of molecular dynamics was observed through measuring ΔTg of N6 by DMA and the content of such immobilized chains was calculated by TGA. Then, the investigation of the affected polymer layer including immobilized and frustrated chains on the polymorphism by the deconvoluted WAXD coupled to DSC thermographs delineates the former acts as γ-nuclei and the latter promotes the γ-phase crystallites. Furthermore, the increase in elongation at break by 24.2 % in the nanocomposite is attributed to compatibilization of GONs, enhanced mobility of γ-form polymorphism compared to α-type crystallite and the hierarchical structure of chain bound clusters.
+Keywords: Polymorphism; Graphene-Oxide; Molecular Dynamics; Localization; Nanocomposites
+
+Shivi Kesarwani, Puranjay Pratap, Jogendra Kumar, Rajesh Kumar Verma, Vijay Kumar Singh,
+An integrated approach for machining characteristics optimization of polymer nanocomposites,
+Materials Today: Proceedings,
+Volume 44, Part 1,
+2021,
+Pages 2638-2644,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2020.12.672.
+(https://www.sciencedirect.com/science/article/pii/S221478532040389X)
+Abstract: This paper contrasts with the study of the effect of machining parameters on material removal rate (MRR), Surface roughness (Ra), and Cutting force (Fc) while milling on hybrid MWCNT/Glass fiber reinforced polymer (GFRP) nanocomposite materials. Hybrid module using the multiple criteria optimizations by GRA and GRA-PCA method in Glass Fiber Reinforced Polymer (GFRP) doped with Multiwalled Carbon Nanotubes (MWCNT) to perform machining operation by carbon carbide tool. Taguchi based L9 orthogonal array was used as an experimental design. The GRA and GRA-PCA optimization modules effectively aggregated the machining output viz MRR, Ra & Fc into a single objective feature finally optimized by the Taguchi principle. The orthogonal setting and experimental setting are compared in the following preferred solution value GRA-Taguchi and GRA-PCA Taguchi. Whereby the percentage improvement of GRA-Taguchi and GRA-PCA Taguchi experimental data is 4.935 percent.
+Keywords: GRA; ANOVA; GFRP; MWCNT; Taguchi; PCA
+
+Yifan Zhu, Eilaf Egap,
+PET-RAFT polymerization catalyzed by cadmium selenide quantum dots (QDs): Grafting-from QDs photocatalysts to make polymer nanocomposites11Electronic supplementary information (ESI) available. See DOI: 10.1039/c9py01604j,
+Polymer Chemistry,
+Volume 11, Issue 5,
+2020,
+Pages 1018-1024,
+ISSN 1759-9954,
+https://doi.org/10.1039/c9py01604j.
+(https://www.sciencedirect.com/science/article/pii/S1759995422038724)
+Abstract: We report herein the first example of light-controlled radical reversible addition–fragmentation chain transfer (RAFT) polymerization facilitated by cadmium selenide (CdSe) quantum dots (QDs) as the photocatalyst and the grafting-from CdSe QDs nanoparticles to create polymer-QDs nanocomposites in a one pot photopolymerization. The CdSe QDs undergo a monophase ligand exchange with chain transfer agents (CTAs) via bithiol groups, enabling dispersion of CdSe in polar solvents as well as the grafting of CTAs on the surface of QDs. Photoinduced electron transfer (PET) between QDs and free CTAs facilitates the polymerization of multitude of functional monomers with temporal control, low dispersity (Đ ≈ 1.06), and high chain-end fidelity. More importantly, we leveraged CdSe QDs bound to CTAs to synthesize well-dispersed core–shell organic–inorganic polymer-QDs nanocomposites using a grafting-from polymerization approach.
+
+Hafizal Yazid, Umar A. Anwar, A. Siti Zaubidah, M. Nurulizzati, Maria Sabtu, M. Julie Andrianny, M.Z. Nurazila, M. Rawi M. Zin, R.S. Chen, Sahrim Ahmad,
+A combined method to probe the behaviour of the filler in polymer blend nanocomposites via X-ray diffraction and thermal measurement,
+Nano-Structures & Nano-Objects,
+Volume 32,
+2022,
+100906,
+ISSN 2352-507X,
+https://doi.org/10.1016/j.nanoso.2022.100906.
+(https://www.sciencedirect.com/science/article/pii/S2352507X22000397)
+Abstract: We have demonstrated the use of XRD and thermal measurements to diligently probe the location of nano-scaled boron carbide (B4C-type compounds) fillers. Herein, the XRD diffraction Bragg and amorphous peaks were successfully fitted from the parameters determined by a deconvolution process using the Pearson VII function, with a fitting error of less than 4%. Thermal measurement was achieved by measuring the thermal conductivity of the composite. A filler loading of 4%wt was found as a threshold. Beyond this value, a significant increase in the thermal conductivity was observed. There was no further decrease in the HDPE crystallinity above the threshold, but rather a considerable increase. Below the threshold value, the addition of fillers disturbed the HDPE crystal arrangement, leading to a reduction of both the HDPE crystallinity and the thermal conductivity. The influence on the ordered structure, intrinsic thermal conductivity and radius of gyration of the fillers, together with their interactions, elucidated the trend of the thermal conductivity.
+Keywords: Nanocomposites; Nanoparticles; Thermal properties; X-ray diffraction
+
+Hyeongjin Son, Hyeokjin Shin, Younghun Kim,
+Thermo-responsive and reversible colorimetric sensors as fever-checkers using low critical solution temperature polymer–Au nanocomposites,
+Colloids and Surfaces A: Physicochemical and Engineering Aspects,
+Volume 651,
+2022,
+129794,
+ISSN 0927-7757,
+https://doi.org/10.1016/j.colsurfa.2022.129794.
+(https://www.sciencedirect.com/science/article/pii/S0927775722015497)
+Abstract: Hydrogels have proven to be among the best substrates for thermo-responsive patches owing to their hydrophilic functional groups. Poly(N-isopropylacrylamide) (PNIPAM) is a common thermo-responsive polymer with a low critical solution temperature (LCST). This polymer changes its phase in response to the solution temperature. In this study, a thermo-responsive colorimetric sensor was fabricated by combining Au nanoparticles (AuNPs) with PNIPAM hydrogels to alter the interparticle spacing of AuNPs contained in the polymer matrix in response to temperature stimuli. The as-prepared PNIPAM@Au hydrogel demonstrated excellent reversible swelling–shrinking capabilities when the temperature changed from 25° to 50°C in 1 min. As the hydrogels shrank, water was released near the shrinking hydrogel. The color of the hydrogel changed from red to purple. This color shift revealed that the localized surface plasmon resonance band red-shifted as the interparticle distance of the AuNPs in the PNIPAM@Au hydrogel was reduced owing to the coupling effect of each AuNP. The thermo-responsive and colorimetric characteristics of the PNIPAM@Au hydrogel may be useful in monitoring body temperature changes in infants with high fever.
+Keywords: Thermo-responsive; Colorimetric; LCST; Au nanoparticle; Fever-checker
+
+Alagarsamy G, Nithiya P, Sivasubramanian R, Selvakumar R,
+Multi-ionic interaction with magnesium doped hydroxyapatite-zeolite nanocomposite porous polyacrylonitrile polymer bead in aqueous solution and spiked groundwater,
+Environmental Pollution,
+Volume 309,
+2022,
+119728,
+ISSN 0269-7491,
+https://doi.org/10.1016/j.envpol.2022.119728.
+(https://www.sciencedirect.com/science/article/pii/S0269749122009423)
+Abstract: Removal of multi-ionic contaminants from water resources has been a major challenge faced during the treatment of water for drinking and industrial applications. In the present study, varying composition of magnesium doped hydroxyapatite (Mg-HAp) and zeolite nanocomposite embedded porous polymeric beads were synthesized using solvent displacement method and its sorption efficiency towards multi-ion contaminant (such as Ag, Al, As, Ba, Be, Cd, Co, Cr, Cu, Mn, Ni, Pb, Se, Tl, Th, U, V and Zn) was investigated in aqueous solution and spiked groundwater. The prepared beads were characterized using suitable techniques like high-resolution transmission electron microscopy (HRTEM), scanning electron microscopy (SEM), and Brunauer-Emmett-Teller (BET) equation. The surface area and pore radius of the beads varied from 6.996 to 66.469 m2/g and 1.698–3.960 nm respectively according to the composition of the bead. The control bead without nanocomposite showed maximum surface area. Multi-ion adsorptions onto beads were confirmed using an inductively coupled plasma-optical emission spectrophotometer (ICP-OES) and X-ray photoelectron spectrophotometer (XPS). The sorption efficiency was high at pH 5 owing to its anionic surface charge leading to an increase in affinity towards the cations. For validating field application, selected high performance beads were tested in multi-ion spiked groundwater. The results indicated that the Mg-HAp nanocomposite bead dominate all the other bead compositions with more than 90% removal efficiency for most of the multi-ion contaminants. The feasible adsorption mechanism has been discussed. This adsorption study revealed that the Mg-HAp nanocomposite bead is a promising material that is cost-effective, non-toxic, biodegradable, eco-friendly and highly efficient towards the removal of multi-ionic contaminants from groundwater.
+Keywords: Groundwater; Multi-ion; Magnesium doped hydroxyapatite; Zeolite; Porous bead; Adsorption
+
+Lakshmeesha Upadhyaya, Beatriz Oliveira, Vanessa. J. Pereira, Maria T. Barreto Crespo, João G. Crespo, Damien Quemener, Mona Semsarilar,
+Nanocomposite membranes from nano-particles prepared by polymerization induced self-assembly and their biocidal activity,
+Separation and Purification Technology,
+Volume 251,
+2020,
+117375,
+ISSN 1383-5866,
+https://doi.org/10.1016/j.seppur.2020.117375.
+(https://www.sciencedirect.com/science/article/pii/S1383586620318499)
+Abstract: Silver ions have been widely used because of their antimicrobial properties. This study describes the production of novel nanocomposite membranes from a block copolymer and silver nanoparticles (NPs). These composite membranes display properties from both polymeric and inorganic materials along with the biocidal features obtained due to the presence of silver ions. The spin coating technique is employed to synthesize the nanocomposite membrane consisting of positively charged inorganic NPs and negatively charged polymeric NPs. Polymeric NPs of spherical, wormicular, and vesicular morphologies were synthesized using Reversible addition-fragmentation chain transfer (RAFT) polymerization using poly(methacrylic acid)-b-(methyl methacrylate) diblock copolymer. The silver NPs coated with poly(methacrylic acid)-b-poly(quaternized 2-(dimethylamino)ethyl methacrylate), were synthesized using a nanoprecipitation method. The silver NPs act as the bridging entity between the polymeric NPs, as well as conferring the antimicrobial activity to the composite membranes. To test their antimicrobial properties, membranes were incubated with Enterococcus hirae. Comparison with the controls shows a 2 to 3 log decrease in the bacterial count for a contact time of 24 h. Furthermore, membrane filtration experiments conducted with phosphate buffer saline solutions spiked with bacteria indicated the importance of incorporating silver NPs in the nanocomposite membrane to achieve considerable rejection of bacteria as well as biocidal activity.
+Keywords: Nanocomposite membranes; Block copolymers; Silver nanoparticles; Biocidal activity
+
+Hyunseong Shin, Joonmyung Choi, Maenghyo Cho,
+An efficient multiscale homogenization modeling approach to describe hyperelastic behavior of polymer nanocomposites,
+Composites Science and Technology,
+Volume 175,
+2019,
+Pages 128-134,
+ISSN 0266-3538,
+https://doi.org/10.1016/j.compscitech.2019.03.015.
+(https://www.sciencedirect.com/science/article/pii/S026635381832774X)
+Abstract: The mechanical characterization of the interphase zone has attracted considerable attention in the fields of mechanical engineering and material design. Especially, the constitutive modeling for the description of the nonlinear mechanical behaviors of the interphase zone within the finite strain is essential for the material design of the polymer nanocomposites (e.g., the thermo-mechanical design, the fracture toughness design, and the fatigue life design). In this study, we propose an efficient multiscale homogenization modeling approach to describe the hyperelastic behavior of the polymer nanocomposites. This is the first attempt to achieve the hyperelastic constitutive modeling of the interphase zone by the multiscale framework, which is based on the full-atomistic molecular dynamics simulations and the multiscale homogenization analysis. The role of interfacial interactions between the nanoparticle and the polymer matrix on the nonlinear mechanical behaviors of polymer nanocomposites is characterized within the finite strain range by the proposed multiscale framework. To overcome the numerical inefficiencies induced by the excessively large number of iterations, the proper orthogonal decomposition method is merged into the proposed multiscale framework. The equivalent continuum models of the polymer nanocomposites are verified by the full atomistic molecular dynamics simulations.
+Keywords: Nano composites A; Polymer-matrix composites (PMCs) A; Multiscale modeling C
+
+Shengdu Yang, Pengcheng Yang, Chuanzheng Ren, Xiaohai Zhao, Junhua Zhang,
+Millefeuille-inspired highly conducting polymer nanocomposites based on controllable layer-by-layer assembly strategy for durable and stable electromagnetic interference shielding,
+Journal of Colloid and Interface Science,
+Volume 622,
+2022,
+Pages 97-108,
+ISSN 0021-9797,
+https://doi.org/10.1016/j.jcis.2022.04.096.
+(https://www.sciencedirect.com/science/article/pii/S0021979722006580)
+Abstract: High-performance conductive polymer nanocomposites containing two-dimensional (2D) MXene are garnering substantial interest for electromagnetic shielding interference (EMI) in flexible electronics. However, owing to the non-sticky nature and undesirable mechanical performances of freestanding MXene film, it remains a formidable challenge to make the trade-off between outstanding EMI shielding capability and high stability. In this study, inspired by the structure and manufacturing process of millefeuille cakes, we propose a controllably layer-by-layer assembling strategy for fabricating flexible multilayered EMI shielding composite films based on MXene and an inherently conductive polymer (ICP). The multilayer films bearing alternating aramid nanofibers/polypyrrole nanowires (AFPy) and Ti3C2Tx reinforced by waterborne polyurethane (Ti3C2Tx@WPU) layers are orderly constructed by a facile alternating vacuum filtration method. Benefiting from the special architectures, the AFPy-70/Ti3C2Tx@WPU-4 film exhibits a high electrical conductivity of 1.74 S cm−1 and superior EMI shielding effectiveness of 40.9 dB at lower Ti3C2Tx loading content (32 wt%). Moreover, synergistic integration of hydrogen bonding and π-π stacks in multilayered films is achieved, especially in tandem with controlled crack generation within the whole film. Excellent EMI shielding performance remains well maintained even after being suffered to back-and-forth bending test (over 10,000 cycles), ultrasonication, and cryogenic temperature, validating great potential as high-performance EMI shielding film resisting extreme conditions.
+Keywords: Ti3C2Tx MXene; Polypyrrole nanowire; Waterborne polyurethane; EMI shielding; Multilayered structure
+
+R. Montes, M. Baeza, J. Muñoz,
+0D polymer nanocomposite carbon-paste electrodes using carbon nanohorns: Percolating networks, electrochemical achievements and filler comparison,
+Composites Science and Technology,
+Volume 197,
+2020,
+108260,
+ISSN 0266-3538,
+https://doi.org/10.1016/j.compscitech.2020.108260.
+(https://www.sciencedirect.com/science/article/pii/S0266353819320019)
+Abstract: In this preliminary work, carbon nanohorns (CNHs) have been dispersed for the first time in an inert polymeric matrix for the development of a new 0D CNH-based polymer nanocomposite carbon-paste electrode (pNC–CPE). As a first demonstration, the electrically conductive networks were optimized by tuning the filler/polymer composition ratio in order to achieve transducers with enhanced electroanalytical responses. Further, direct electrochemical comparison with additional pNC–CPEs employing conventional carbon nanoallotropes is provided, demonstrating that pNC–CPEs can be electrically modulated by customizing the filler/polymer composition ratio as well as the carbon nature. Consequently, this work wide the pNC–CPE family and paves the way for exploiting CNH-based polymer nanocomposites as novel sensitive and reproducible electrochemical (bio)sensing devices.
+Keywords: Electrochemical sensor; Near-percolation composition; Carbon nanotubes; Graphene; Carbon nanomaterials
+
+Yasser Zare, Hamid Garmabi,
+Thickness, modulus and strength of interphase in clay/polymer nanocomposites,
+Applied Clay Science,
+Volumes 105–106,
+2015,
+Pages 66-70,
+ISSN 0169-1317,
+https://doi.org/10.1016/j.clay.2014.12.016.
+(https://www.sciencedirect.com/science/article/pii/S0169131714004955)
+Abstract: The aim of the present work is to quantify the properties of interphase between the polymer matrix and the nanoclay in clay/polymer nanocomposites (CPN). Two micromechanics models, Ji and Pukanszky, are simply used to measure the modulus, strength and thickness of interphase by mechanical properties of nanocomposites. The suggested approach is applied to calculate and evaluate the interphase properties in various samples reported in the literature. The calculations clearly demonstrate the different properties of interphase compared to matrix and nanoclay phases. It is shown that the interphase usually has a significant thickness, modulus and strength in CPN which cannot be neglected in the final properties of nanocomposites.
+Keywords: Clay/polymer nanocomposites (CPN); Interphase properties; Micromechanics models; Mechanical properties
+
+E.M. Mahdi, C. Cuadrado-Collados, J. Silvestre-Albero, Jin-Chong Tan,
+Polymer nanocomposites functionalised with nanocrystals of zeolitic imidazolate frameworks as ethylene control agents,
+Materials Today Advances,
+Volume 2,
+2019,
+100008,
+ISSN 2590-0498,
+https://doi.org/10.1016/j.mtadv.2019.100008.
+(https://www.sciencedirect.com/science/article/pii/S2590049819300153)
+Abstract: Ethylene (C2H4) management involves the usage of materials such as KMnO4 or processes such as ozone oxidation or combined photocatalysis/photochemistry. The ubiquity of C2H4, especially in an industrial context, necessitates a simpler and much more effective approach, and herein we propose the usage of tuneable polymer nanocomposites for the adsorption of C2H4 through the modification of the polymer matrices via the incorporation of nanocrystals of zeolitic imidazolate frameworks (nano-ZIFs). We demonstrate that the inclusion of ZIF-8 and ZIF-7 nanocrystals into polymeric matrices (Matrimid and polyurethane [PU]) yields robust nanocomposites that preserve the C2H4 adsorption/desorption capacity of nanocrystals while shielding it from degrading factors. We report new insights into the adsorption/desorption kinetics of the polymer and its corresponding nanocomposites, which can be tailored by exploiting the underlying polymeric molecular interactions. Importantly, we also elucidated the retention of the intrinsic structural framework dynamics of the nano-ZIFs even when embedded within the polymeric matrix, as evidenced from the breathing and gate-opening phenomena. Our findings pave the way for bespoke designs of novel polymer nanocomposites, which will subsequently impact the deployment of tailored nanomaterials for effective industrial applications.
+Keywords: Mixed-matrix membranes; Dynamic framework structure; Adsorption–desorption kinetics; Gate opening; Polyurethane; Matrimid
+
+Yasser Zare, Kyong Yop Rhee,
+A two-step technique for tensile strength of montmorillonite/polymer nanocomposites assuming filler morphology and interphase properties,
+Applied Clay Science,
+Volume 150,
+2017,
+Pages 42-46,
+ISSN 0169-1317,
+https://doi.org/10.1016/j.clay.2017.08.026.
+(https://www.sciencedirect.com/science/article/pii/S0169131717303770)
+Abstract: This paper presents a two-step methodology for prediction of tensile strength in montmorillonite/polymer nanocomposites (MPN) assuming the effects of montmorillonite morphology (intercalation/exfoliation) and interphase properties. The suggested technique is evaluated by the experimental data of tensile strength in some samples. A good agreement is shown between experimental measurements and predictions, which can determine the intercalation/exfoliation level and interphase properties. A high aspect ratio of Mt platelets increases the interfacial interaction and mechanical involvement between polymer chains and nanoparticles causing high strengthening effect. Moreover, high concentration of well-exfoliated Mt as well as thick and strong interphase produces desirable tensile strength in MPN.
+Keywords: Mt/polymer nanocomposites; Tensile strength; Interphase; Intercalation/exfoliation
+
+Yan Cao, Naeim Farouk, Nasser Mortezaei, Alexei Valerievich Yumashev, Majid Niaz Akhtar, Arash Arabmarkadeh,
+Investigation on microwave absorption characteristics of ternary MWCNTs/CoFe2O4/FeCo nanocomposite coated with conductive PEDOT-Polyaniline Co-polymers,
+Ceramics International,
+Volume 47, Issue 9,
+2021,
+Pages 12244-12251,
+ISSN 0272-8842,
+https://doi.org/10.1016/j.ceramint.2021.01.073.
+(https://www.sciencedirect.com/science/article/pii/S027288422100095X)
+Abstract: In this study, ternary MWCNTs/CoFe2O4/FeCo nanocomposite coated with conductive PEDOT-polyaniline (PA@MW/F/C) co-polymers were synthesized by microwave-assisted sol-gel followed in-situ polymerization methods. The phases, crystal structures, morphologies, magnetic and electromagnetic features of the as-prepared samples were identified via XRD, SEM, XPS, VSM, and VNA respectively. Absorption characteristics were investigated in the frequency (12–18 GHz) Ku band. XRD, VSM and SEM analysis confirmed the partial reduction process of CoFe2O4 and successfully decorated magneto-dielectric particles with co-polymers. By measuring electromagnetic features of the samples, it was found that coating magneto-dielectric particles with conductive co-polymers improved the permittivity and dielectric constant, accordingly affecting the impedance matching characteristic and attenuation constant performance. Moreover, exchange coupling behavior was found significant impacts on the microwave absorption properties. PA@MW/F/C coated nanocomposite revealed the maximum reflection loss of −90 dB at 13.8 GHz with 4 GHz effective bandwidth and 1.5 mm thickness. Due to the enhanced interfacial polarization, impedance matching and exchange coupling effects of the as-prepared nanocomposite, it owns excellent microwave absorption properties, which can be applied as an absorber with distinguishing features (strong absorption, thin thickness, and broadest effective bandwidth).
+Keywords: Microwave absorption; XPS (X-ray photoelectron spectroscopy); MWCNTs/CoFe2O4/FeCo nanocomposite; Magnetic properties; Co-polymer
+
+Jaehyeok Doh, Qing Yang, Nagarajan Raghavan,
+Reliability-based robust design optimization of polymer nanocomposites to enhance percolated electrical conductivity considering correlated input variables using multivariate distributions,
+Polymer,
+Volume 186,
+2020,
+122060,
+ISSN 0032-3861,
+https://doi.org/10.1016/j.polymer.2019.122060.
+(https://www.sciencedirect.com/science/article/pii/S0032386119310663)
+Abstract: In this study, reliability-based robust design optimization (RBRDO) for polymer nanocomposites (PNCs) design is conducted to secure the reliability of design conditions concerning the electrical percolation threshold and carbon nanotube (CNT) aspect ratio as well as the robustness for electrical conductivity. CNT diameter and length are known as following the lognormal and Weibull distributions respectively. To reflect the different probability distributions of CNT geometry parameters and correlations between these random input variables, Nataf transformation is employed. By performing several case studies with the first-order reliability method (FORM)-based RBRDO approaches, the objective function exhibited a noteworthy change according to the correlation coefficients and the reliability and robustness for PNCs were satisfied concurrently. Furthermore, the highlight of this work is to provide a generic framework for practical PNC design and multi-objective optimization to enhance electrical performance efficiently.
+Keywords: Polymer nanocomposites (PNCs); Electrical percolation threshold; Reliability-based robust design optimization (RBRDO)
+
+Liberata Guadagno, Luigi Vertuccio, Giuseppina Barra, Carlo Naddeo, Andrea Sorrentino, Marino Lavorgna, Marialuigia Raimondo, Elisa Calabrese,
+Eco-friendly polymer nanocomposites designed for self-healing applications,
+Polymer,
+Volume 223,
+2021,
+123718,
+ISSN 0032-3861,
+https://doi.org/10.1016/j.polymer.2021.123718.
+(https://www.sciencedirect.com/science/article/pii/S0032386121003414)
+Abstract: Fully biodegradable self-healing nanocomposites were prepared by mixing carbon nanotubes (CNTs)-based carboxyl methyl cellulose (CMC), produced by chemical modification of cellulose, with a commercial biodegradable highly amorphous vinyl alcohol polymer (HAVOH) containing murexide salt. Damaged specimens were allowed to cure by simply touching the cutting sections in a controlled temperature and humidity environment (30 °C and 80%) for a period of 48 h. The healing efficiency of the samples, evaluated by the recovery of the “Storage Modulus” determined by dynamic-mechanical analysis (DMA) of healed samples, manifests a temperature-dependence behaviour. For temperatures above 50 °C, an almost complete recovery (100%) was observed for the sample of HAVOH containing a solubilized murexide salt. The presence of CNTs-based CMC imparts improved mechanical properties. Maximum values for healing efficiency were observed between 30 and 80 °C.
+Keywords: Self-healing nanocomposites; Biodegradable polymer; Modified cellulose; Smart polymers; Green materials
+
+Nazakat Ali Khoso, Guangyu Xu, Jiao Xie, Tian Sun, Jiajun Wang,
+The fabrication of a graphene and conductive polymer nanocomposite-coated highly flexible and washable woven thermoelectric nanogenerator††Electronic supplementary information (ESI) available: Fig. S1. FESEM of rGO and PEDOT: PSS-coated textile fabric at different magnifications, with EDS profile showing elemental analysis (C), (O) & (S). Fig. S2. Sheet resistance with the number of padding cycles & washing cycles (a); tensile strength (warp & weft) (b). Fig. S3. Water contact angle for the fabric coated with GO (a), rGO (b), and PEDOT: PSS-rGO (c). The effect of dyeing cycles on the water contact angle. Fig. S4. TE design model P–N-type legs rGO, rGO/PEDOT: PSS connected in parallel (a), and series (b) arrangements with a closed-circuit. Fig. S5. TE design model (P–N) type legs coated with rGO, rGO/PEDOT: PSS Connected in parallel (a), and series (b) arrangements with a closed-circuit. (a) Obtained electric potential (mV). (b) Seebeck analysis set-up (hot plate). (c) Glowing of the LED. (d) TE device placed on a human wrist. Fig. S1, Supplementary file (S2) and Supplementary file (S3) tables. See DOI: 10.1039/d0ma01010c,
+Materials Advances,
+Volume 2, Issue 11,
+2021,
+Pages 3695-3704,
+ISSN 2633-5409,
+https://doi.org/10.1039/d0ma01010c.
+(https://www.sciencedirect.com/science/article/pii/S2633540923007466)
+Abstract: ABSTRACT
+The use of self-powering wearable devices has increased in recent years due to the increasing demands of the internet of things (IOTs). Textile fabrics have shown increasing trends toward wearable electronics due to their outstanding mechanical, electrical, and electronic properties. Herein, we report the development of a highly flexible and washable thermoelectric device with a sheet resistance of 185–45 kΩ. The sheet resistance of the rGO-coated fabric was reduced from 185 to 45 kΩ on coating with PEDOT:PSS, and was further decreased from 45 kΩ to 25 kΩ with 10 padding cycles. The fabric showed a higher wet pickup percentage of 60–80%, which improved the electrical and thermoelectric performance of the resultant textile. The sheet resistance remained stable for up to 20 cycles and then increased (25Ω–180 kΩ). A difference was attained between the human body temperature (Th) of 36.5 °C with a temperature gradient (ΔT) of 16.5 °C and an ambient temperature of 20.0 ± 0.5 °C. The performance of the device was significantly improved with an enhanced thermoelectric Seebeck coefficient of 2.5–25.0 μV K−1, power factor of 0.25–0.60 μW m−1 K−2, and figure of merit (ZT) of 0.02–0.08 × 10−3. There was an improvement in the tensile strength of the rGO-coated fabric from 20 to 60 mPa, and in the water contact angle (WCA) from 121° to 152°, with a slightly reduced air permeability of 173 to 165 cm3 S2 s−1, without influencing the comfort properties. The study demonstrates that the graphene and polymer nanocomposite-coated textile fabric can be used as a self-powered wearable thermoelectric generator for energy harvesting from low-grade human body heat.
+
+Yasser Zare, Mohammad Fasihi, Kyong Yop Rhee,
+Efficiency of stress transfer between polymer matrix and nanoplatelets in clay/polymer nanocomposites,
+Applied Clay Science,
+Volume 143,
+2017,
+Pages 265-272,
+ISSN 0169-1317,
+https://doi.org/10.1016/j.clay.2017.03.043.
+(https://www.sciencedirect.com/science/article/pii/S0169131717301631)
+Abstract: The Hui-Shia model, which considers the complete stress transfer between polymer matrix and particles (perfect interfacial adhesion), overpredicts the Young's modulus of clay/polymer nanocomposites (CPN). In this work, the effective aspect ratio and volume fraction of nanoclay are expressed assuming the imperfect load transfer, the minimum length of platelets required for efficient stress transfer (Lc) and the interfacial shear strength (τ). Additionally, “I” parameter as the level of stress transfer in CPN is defined and determined using the effective parameters. The large nanoclay platelets with low “Lc” give a high level of “I”. Also, high “Lc” and slight “τ” observe the poor levels of effective parameters and Young's modulus of CPN. The “I” values are calculated for some samples which indicate the different levels of stress transfer in CPN. It is possible to analyze the levels of interfacial properties and stress transfer in CPN using the developed model.
+Keywords: Clay/polymer nanocomposites; Stress transfer; Young's modulus; Interfacial shear strength
+
+Mohd. Sadiq, Anil Arya, A.L. Sharma,
+Synthesis and characterizations (electrical and thermal stability properties) of the blended polymer nanocomposites,
+Materials Today: Proceedings,
+Volume 12, Part 3,
+2019,
+Pages 605-613,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2019.03.104.
+(https://www.sciencedirect.com/science/article/pii/S2214785319304626)
+Abstract: We report preparation and characterization of the Blend Polymer Nanocomposite (BPNC) based on PAN-PEO with Lithium hexaflourophosphate as a source of ion conductor and organomodified montmorillonite nanoclay as intercalated. All the polymer nanocomposites were prepared by the standard solution cast technique and effect of nano-clay was investigated through FESEM, FTIR, Impedance spectroscopy, TGA and cyclic Voltammetry analysis. The FESEM micrographs evidenced the change in morphology on the varying concentration of nanoclay in the polymer salt matrix. The various interactions between polymer, salt and nanoclay have been explored at the microscopic level through FTIR. The most responsible property of such system i.e. ionic conductivity has been estimated through impedance spectroscopy (IS). The detailed analysis of IS property has been done in the spectrum of 1Hz to 1 MHz at room temperature. The highest ionic conductivity has been estimated for the 3 wt. % nanoclay content and is about ∼10-5 S cm-1. The electrochemical potential window of the prepared polymer nanocomposite has been recorded through slope of current rise on voltage axis and found to be 4 V. The thermal stability of the prepared polymer nanocomposites have also been recorded and observed that all the prepared films are thermally stable up to 200 oC.
+Keywords: PNCs; FESEM; OMMT; Impedance Spectroscopy; Voltage Stability Window
+
+Yixi Bian, Yongjin Li,
+Porous conductive elastomeric composites with carbon nanotubes suspended in the narrow pores from Co-continuous polymer blend nanocomposites,
+Composites Science and Technology,
+Volume 218,
+2022,
+109116,
+ISSN 0266-3538,
+https://doi.org/10.1016/j.compscitech.2021.109116.
+(https://www.sciencedirect.com/science/article/pii/S0266353821004723)
+Abstract: Porous conductive poly(ethylene-co-octene) (POE) elastomeric composites have been fabricated by selectively etching of the poly(butylene adipate-co-terephthalate) (PBAT) phase from the co-continuous POE/PBAT/carbon nanotubes (CNTs) ternary nanocomposites in which CNTs are exclusively located in the PBAT phase. The CNTs were fully left and suspended in the narrow pores with the solvent etching of PBAT by the dichloromethane. The obtained porous composites are light weight, flexible, and elastic. Moreover, the conductivity of the porous elastic composites is 11 orders of magnitude higher than that of the ternary nanocomposites with 2.0 wt% CNTs. In addition, the fully exposure of the CNTs in the pores induces the significantly increased electromagnetic interference shielding effects. The formation of porous conductive elastomers paves new possibility to fabricate functional materials for flexible electronics.
+Keywords: Carbon nanotubes; Polymer-matrix composites (PMCs); Electrical Properties; Electromagnetic interference shielding (EMI)
+
+Raj Mukhopadhyay, Debarati Bhaduri, Binoy Sarkar, Ruhaida Rusmin, Deyi Hou, Rubina Khanam, Subhas Sarkar, Jayanta Kumar Biswas, Meththika Vithanage, Amit Bhatnagar, Yong Sik Ok,
+Clay–polymer nanocomposites: Progress and challenges for use in sustainable water treatment,
+Journal of Hazardous Materials,
+Volume 383,
+2020,
+121125,
+ISSN 0304-3894,
+https://doi.org/10.1016/j.jhazmat.2019.121125.
+(https://www.sciencedirect.com/science/article/pii/S0304389419310799)
+Abstract: Contaminant removal from water involves various technologies among which adsorption is considered to be simple, effective, economical, and sustainable. In recent years, nanocomposites prepared by combining clay minerals and polymers have emerged as a novel technology for cleaning contaminated water. Here, we provide an overview of various types of clay–polymer nanocomposites focusing on their synthesis processes, characteristics, and possible applications in water treatment. By evaluating various mechanisms and factors involved in the decontamination processes, we demonstrate that the nanocomposites can overcome the limitations of individual polymer and clay components such as poor specificity, pH dependence, particle size sensitivity, and low water wettability. We also discuss different regeneration and wastewater treatment options (e.g., membrane, coagulant, and barrier/columns) using clay–polymer nanocomposites. Finally, we provide an economic analysis of the use of these adsorbents and suggest future research directions.
+Keywords: Clay–polymer composites; Synthesis and characterization; Wastewater treatment; Contaminant removal; Environmental sustainability
+
+Maodi Ran, Tingting Wu, Ying Jiao, Jiaxing Wu, Jiaokun Li,
+Selenium bio-nanocomposite based on extracellular polymeric substances (EPS): Synthesis, characterization and application in alleviating cadmium toxicity in rice (Oryza sativa L.),
+International Journal of Biological Macromolecules,
+Volume 258, Part 2,
+2024,
+129089,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2023.129089.
+(https://www.sciencedirect.com/science/article/pii/S0141813023059883)
+Abstract: Selenium nanoparticles (SeNPs) have gained significant attention owing to their favorable bioavailability and low toxicity, making them widely applications in the fields of medicine, food and agriculture. In this study, bacterial extracellular polymeric substances (EPS) were used as a novel stabilizer and capping agent to prepare dispersed SeNPs. Results show that EPS-SeNPs presented negative potential (−38 mV), spherical morphologies with average particle size about 100–200 nm and kept stable at room temperature for a long time. X-ray diffraction (XRD) analysis demonstrated that the synthesized nanoparticles were pure amorphous nanoparticles, and X-ray photoelectron spectroscopy (XPS) spectrum showed a spike at 55.6 eV, indicating the presence of zero-valent nano‑selenium. Fourier-transform infrared spectroscopy (FTIR) and three-dimensional excitation-emission matrix (3D-EEM) fluorescence spectroscopy analysis confirmed proteins and polysaccharides in EPS played a crucial role in the synthesis of EPS-SeNPs. Compared to EPS or sodium selenite (Na2SeO3), EPS-SeNPs showed a relatively moderate result in terms of scavenging free radicals in vitro. In contrast, EPS-SeNPs demonstrated lower toxicity to rice seeds than Na2SeO3. Notably, the exogenous application of EPS-SeNPs effectively alleviated the growth inhibition and oxidative damaged caused by cadmium (Cd), and significantly reduced Cd accumulation in rice plants.
+Keywords: Extracellular polymeric substances (EPS); Selenium nanoparticles; Cd toxicity
+
+Karla I. García-Chávez, Claudia A. Hernández-Escobar, Sergio G. Flores-Gallardo, Florentino Soriano-Corral, Esmeralda Saucedo-Salazar, E. Armando Zaragoza-Contreras,
+Morphology and thermal properties of clay/PMMA nanocomposites obtained by miniemulsion polymerization,
+Micron,
+Volume 49,
+2013,
+Pages 21-27,
+ISSN 0968-4328,
+https://doi.org/10.1016/j.micron.2013.02.007.
+(https://www.sciencedirect.com/science/article/pii/S0968432813000371)
+Abstract: Miniemulsion polymerization was used as the synthetic method to produce clay/poly(methyl methacrylate) nanocomposites. Two kinds of interfacial interactions clay–polymer particle were observed by electron microscopy, one where the polymer particles are adhered on the surface of the larger fragments of clay, and another where nanometric fragments of clay are encapsulated by polymer particles. Variations in the glass transition temperature (Tg) and thermomechanical properties of the matrix, as function of clay content, were observed. In particular, at the highest clay loading (1.0wt%) depression of Tg and thermomechanical properties were observed. The increased clay–polymer matrix interfacial area appears to be the conditioning factor that determines such behavior.
+Keywords: Clay polymer nanocomposites; Miniemulsion polymerization; Nanocomposite
+
+Yasser Zare,
+An approach to study the roles of percolation threshold and interphase in tensile modulus of polymer/clay nanocomposites,
+Journal of Colloid and Interface Science,
+Volume 486,
+2017,
+Pages 249-254,
+ISSN 0021-9797,
+https://doi.org/10.1016/j.jcis.2016.09.080.
+(https://www.sciencedirect.com/science/article/pii/S0021979716307457)
+Abstract: The effect of percolation threshold on the mechanical properties of insulate polymer nanocomposites has been briefly investigated in literature. In this work, an approach is suggested to study the percolation threshold and interphase role in polymer/clay nanocomposites (PCN) by a model for tensile modulus. The percolation threshold is related to the aspect ratio of clay layers and the predictions of the suggested methodology are compared with the experimental data. A low percolation threshold is obtained by high aspect ratio of clay layers which increases the modulus. Also, the developed model suggests the accurate results compared to experimental data assuming the interphase role. According to the calculations, the best modulus of PCN is achieved by the thinnest clay layers and the thickest interphase between polymer and clay.
+Keywords: Polymer/clay nanocomposites; Percolation threshold; Interphase; Tensile modulus
+
+Shengjun Bian, Yanyi Wang, Fangkun Xiao, Yunbo Tong, Congjie Gao, Guiru Zhu,
+Fabrication of polyamide thin-film nanocomposite reverse osmosis membrane with improved permeability and antibacterial performances using silver immobilized hollow polymer nanospheres,
+Desalination,
+Volume 539,
+2022,
+115953,
+ISSN 0011-9164,
+https://doi.org/10.1016/j.desal.2022.115953.
+(https://www.sciencedirect.com/science/article/pii/S0011916422004088)
+Abstract: Thin-film nanocomposite (TFN) membrane with polyamide (PA) layer containing nanofillers have attracted extensive attention due to their excellent properties. In this study, hollow polymer phenolic resin nanospheres (HPS) and silver nanoparticles immobilized HPS (Ag/HPS) were synthesized with 2,4-dihydroxy benzoic acid and hexamethylene tetramine, and used as nanofillers to prepare TFN-HPS and TFN-Ag/HPS membrane. In this paper, the effects of HPS and Ag/HPS addition (0.002 wt%, 0.004 wt%, 0.006 wt%, 0.008 wt% and 0.010 wt%) on TFN membranes separation performance were investigated. The results showed that the water fluxes of TFN-HPS and TFN-Ag/HPS membranes reaches 64.7 L·m−2·h−1 and 64.0 L·m−2·h−1, respectively, when the addition amount of HPS and Ag/HPS was 0.006 wt%, which is about 80 % higher than that of TFC membranes (36.0 L·m−2·h−1). Furthermore, the TFN-HPS and TFN-Ag/HPS membrane have excellent long-term stability. After seven days of continuous operation, the water flux of TFN-HPS and TFN-Ag/HPS membranes remains at 50.0 L·m−2·h−1 and 45.6 L·m−2·h−1, respectively. In addition, the fouling resistance of TFN-HPS and TFN-Ag/HPS membranes is significantly improved, with flux recovery rates reaching 88.8 % and 91.4 %, respectively. Importantly, the sterilization rate of TFN-Ag/HPS membrane containing antibacterial silver to Escherichia coli is up to 96.7 %.
+Keywords: Hollow polymer nanospheres; Ag nanoparticles; Antibacterial; Thin-film nanocomposite membrane; Reverse osmosis
+
+Howaida Mansour, Eman M.F. Abd El.Halium, Najah. F.H. Alrasheedi, M.Sh. Zoromba, Ahmed F. Al-Hossainy,
+Physical properties and DFT calculations of the hybrid organic polymeric nanocomposite thin film [P(An+o-Aph)+Glycine/TiO2/]HNC with 7.42% power conversion efficiency,
+Journal of Molecular Structure,
+Volume 1262,
+2022,
+133001,
+ISSN 0022-2860,
+https://doi.org/10.1016/j.molstruc.2022.133001.
+(https://www.sciencedirect.com/science/article/pii/S0022286022006512)
+Abstract: Copolymer of aniline and ortho aminophenol was prepared by using the oxidative polymerization method with ferric chloride as an oxidizing agent in the occurrence of polyethylene glycol (Mol. Wt. 200) as a soft template. The microporous structure thin films were fabricated from the hybrid material of titanium oxide/copolymer (2-aminophenol and aniline) + glycine [P(An+o-Aph)+Gl/TiO2]HNC via a physical vapor deposition (PVD) method. The effect of the addition of glycine and TiO2 nanoparticles (NPs) on the physical properties of copolymer [P(An+o-Aph)] was discussed in light of the study of the crystallinity and optical properties. The addition of glycine increases the crystallinity of the resulting blend with the copolymer. The average crystallite size of TiO2 is ≈ 25 nm. The interaction between the blend and TiO2 was physical. The copolymer showed an absorbance of 1.18 at the wavelength (λ) 374 nm, which increased to 1.26 at λ= 440 nm after glycine addition, also increased to 1.53 at λ= 486 nm after TiO2 loading. Due to glycine blending and TiO2 addition, significant changes in the absorption index and indirect/direct bandgap of the copolymer have been detected. The materials Studio 7.0 program on TDDFT/DMol3 was used to optimize the molecular structure and perform the frequency calculations for the crystal models and isolated molecules. The DFT-Gaussian09W-vibration values are quite similar to the experimental data either in the structure or in the optical properties. The power conversion efficiency (η) of the blend Au/[P(An+o-Aph)+Gl]B/p-Si/Al heterojunction is 5.30 %, which increased to η=7.42% by loading the [TiO2]NPs to blend. The improvements in optical illuminations properties suggest the use the hybrid nanocomposite films in the polymers solar cell application.
+Keywords: Hybrid nanocomposite; TiO2 nanoparticles; Bandgap; [P(An+o-Aph)+Gl/TiO2]HNC; Optical properties
+
+Fatemeh Amiripour, Shahram Ghasemi, Seyed Naser Azizi,
+Förster resonance energy transfer-based molecularly imprinted polymer /amine-functionalized metal-organic framework nanocomposite for trace level detection of 4-nitrophenol,
+Analytica Chimica Acta,
+Volume 1202,
+2022,
+339638,
+ISSN 0003-2670,
+https://doi.org/10.1016/j.aca.2022.339638.
+(https://www.sciencedirect.com/science/article/pii/S0003267022002094)
+Abstract: Herein, luminescent metal-organic framework (LMOF) is modified with molecularly imprinted polymer (MIP) and employed as an efficient and cost-effective nanoprobe for the determination of 4-nitrophenol (4-NP). Amine-UiO-66 support with unique luminescence property is chosen for creating the template of 4-NP using MIP to construct a highly selective LMOF-based sensor (amine-UiO-66/MIP nanocomposite). The imprinted sites formed at the surface of LMOF significantly enhance the selectivity of the probe for 4-NP over its analogs. 4-NP can effectively quench the fluorescent intensity of the optical sensor via the Förster resonance energy transfer (FRET) mechanism. Amine-UiO-66/MIP sensor provided the linear range of 0.05–50 μM and low limit of detection of 0.009 μM for sensing of 4-NP. The application of probe for the fluorometric analysis of real samples, including drinking and environmental water, provided satisfactory recovery results with low relative standard deviation (RSD).
+Keywords: Luminescent metal-organic framework; Optical sensor; 4-Nitrophenol; Molecularly imprinted polymer; Fluorescence quenching; Nanocomposite
+
+Teklebrahan Gebrekrstos Weldemhret, Jeong Han Lee, Chan Uk Park, Dong-Woo Lee, M.N. Prabhakar, Yong Tae Park, Jung Il Song,
+Triboelectric nanogenerator and UV-blocking solid polymer electrolyte nanocomposite from recycled waste cigarette butts,
+Sustainable Materials and Technologies,
+Volume 39,
+2024,
+e00847,
+ISSN 2214-9937,
+https://doi.org/10.1016/j.susmat.2024.e00847.
+(https://www.sciencedirect.com/science/article/pii/S2214993724000277)
+Abstract: Robust triboelectric nanogenerators that are inexpensive, flexible, transparent, and do not require rigid metal sheet current collectors are vital for next-generation energy/wearable electronic device/robot/self-powered sensor applications. In this study, a soft skin-like solid polymer electrolyte triboelectric nanogenerator (SPE-TENG) with the above characteristics (flexible, good transmittance, and 0.099 S m−1 conductivity) is fabricated using cellulose acetate from waste cigarette butts and branched polyethyleneimine (abbreviated as CA/bPEI composite film). The CA/bPEI SPE composite film can serve as tribopositive electrification and current collector layer and demonstrated excellent electricity generation performance with a power density of 7.54 W m−2 under a contact-separation working mode. Meanwhile, the SPE-TENG can drive small commercial electronic devices (such as an LED switch) and has demonstrated a high-pressure sensitivity of 6.42 V kPa−1 and ultrafast response/recovery time (~2–6 ms), enabling its application in artificial electronic skin for various motions and tactile sensing. Furthermore, due to bPEI's ability to absorb UV light waves, the CA/bPEI composite film also possesses exceptional UV-ray shielding properties. The proposed work utilized discarded cigarette butts to simultaneously protect the environment and create a multifunctional material that can be used for clean energy harvesting to power small electronic devices and sensors and block harmful UV rays.
+Keywords: Recycled waste materials; Wearable electronic devices; Mechanical energy harvesting; Self-powered sensors; Tactile sensors
+
+Ji Hoon Lee, Meisha L. Shofner,
+Tensegrity-inspired polymer nanocomposites,
+Polymer,
+Volume 111,
+2017,
+Pages 9-19,
+ISSN 0032-3861,
+https://doi.org/10.1016/j.polymer.2017.01.012.
+(https://www.sciencedirect.com/science/article/pii/S0032386117300307)
+Abstract: Investigating the design space available in nanofilled polymers is expected to produce materials with unique structure-property relationships. In this work, the concept of tensegrity is used as inspiration for microstructural design. Tensegrity is an elegant and efficient structural design, relying upon interactions between elements, specifically elements in compression which are connected through a tensioned web. In this embodiment, the nanoparticles are considered the compressive elements, and the polymer matrix, when suitably processed, is considered the tensioned web. Nanocomposite materials containing polymer-decorated hydroxyapatite nanoparticles were used to evaluate the tensegrity-inspired approach. Nanocomposite systems with a semi-crystalline matrix (polyethylene oxide) and an amorphous matrix (polymethyl methacrylate) were prepared and characterized with compatible polymer-decorated nanoparticles. The results showed that the nanocomposite with a semi-crystalline matrix was more promising as a candidate for producing the tensegrity-inspired microstructure and that the concept could produce improved thermomechanical properties in the glassy temperature regime.
+Keywords: Polymer nanocomposite; Viscoelastic properties; Tensegrity
+
+Somayeh Ostovar, Alireza Rezvani, Rafael Luque, Carolina Carrillo-Carrión,
+Core-shell iron oxide@cathecol-polymer@palladium/copper nanocomposites as efficient and sustainable catalysts in cross-coupling reactions,
+Molecular Catalysis,
+Volume 493,
+2020,
+111042,
+ISSN 2468-8231,
+https://doi.org/10.1016/j.mcat.2020.111042.
+(https://www.sciencedirect.com/science/article/pii/S2468823120303035)
+Abstract: Magnetic core-shell Fe2O3@polymer-Pd/Cu nanocomposites (NCs) were developed as efficient and sustainable nanocatalysts for cross-coupling reactions. The designed NCs consisted of three components: i) a magnetic core (Fe2O3 nanoparticle), which allowed the recovery and reuse of the NCs, enhancing thus their attractiveness as green catalysts; ii) a catechol-based polymer coating, chosen because of its strong chelating ability towards metal ions, and its potential to be obtained from biomass (lignin depolymerization); and iii) catalytically active metal nanoparticles (Pd and Cu NPs) immobilized via in situ formation onto the polymeric shell. As-prepared Pd-based NCs successfully catalyzed Suzuki-Miyaura cross-coupling reactions, achieving yields between 87% and 97% in only 20–40 min depending on the aryl halides and boronic acid derivatives. Similarly, Cu-based NCs exhibited a quite good catalytic efficiency (> 80%) in the synthesis of propargylamines via A3 coupling reaction of phenylacetylene with various aldehydes and amines. Importantly, these NCs presented a good reusability, without significant decrease in efficiency after several cycles. However, the major advantage of the designed NCs is the lower Pd or Cu content (1.5 wt% and 2.6 wt%, respectively) as compared to most of the reported similar catalysts (between 3 – 6 wt% for Pd and > 5 wt% for Cu), which is a key challenge in view of developing cost-effective and environment-friendly catalysts while maintaining a high efficiency.
+Keywords: core-shell nanocomposites; magnetic nanoparticles; catechol-based polymers; palladium nanoparticles; copper nanoparticles; cross-coupling reactions
+
+Wei Cai, Zhaoxin Li, Xiaowei Mu, Lingxin He, Xia Zhou, Wenwen Guo, Lei Song, Yuan Hu,
+Barrier function of graphene for suppressing the smoke toxicity of polymer/black phosphorous nanocomposites with mechanism change,
+Journal of Hazardous Materials,
+Volume 404, Part A,
+2021,
+124106,
+ISSN 0304-3894,
+https://doi.org/10.1016/j.jhazmat.2020.124106.
+(https://www.sciencedirect.com/science/article/pii/S0304389420320963)
+Abstract: Recently, black phosphorous (BP) nanosheets as an emerging nanomaterial have presented significant fire safety improvement in polymer nanocomposites. However, as elemental phosphorus, fire safety improvement effect of BP nanosheets on polymer composites builds on the conversion of gaseous pyrolysis products into smoke particles, which inevitably promotes the formation and release of smoke particles. From the perspective of overall fire safety improvement, it is vital to simultaneously suppress the heat release and smoke production of polymer/BP composites. Herein, melamine-mediated graphene/black phosphorous nanohybrids (GNS/MA/BP) were fabricated through electrostatic-driving self-assembly process and introduced into polyether thermoplastic polyurethane (TPU). During combustion, the barrier function provided by thermally stable layered structure of graphene (GNS) enables more pyrolysis products of BP nanosheets to be kept within condensed phase and react with polymer matrix. Compared to pure TPU, the incorporated hierarchical nanostructure (GNS/MA/BP-2) decreases PHRR, THR, and total CO2 release of TPU composite by 54.7%, 23.5%, and 32.5%, respectively. Beside, in contrast to TPU-BP composite, the release rate of toxic smoke and CO gas of TPU-GNS/MA/BP-2 composite are reduced by 46.7% and 49.4%. With barrier function of graphene, the heat and smoke release behavior of polymer/BP nanocomposites is effectively suppressed.
+Keywords: Barrier function; Graphene; Black phosphorous; Smoke suppression; Fire safety
+
+Lokesh Singh Panwar, Varij Panwar, Gopinathan Anoop, Sukho Park,
+Carbon nanofiber-polyelectrolyte triggered piezoelectric polymer-based hydrophilic nanocomposite for high sensing voltage generation,
+Journal of Materials Research and Technology,
+Volume 17,
+2022,
+Pages 3246-3261,
+ISSN 2238-7854,
+https://doi.org/10.1016/j.jmrt.2022.02.075.
+(https://www.sciencedirect.com/science/article/pii/S2238785422002459)
+Abstract: Flexible electronic devices with flexible sensors have drawn enormous attention due to their wide variety of applications, such as wearable health monitoring devices, bendable touch screens, flexible storage devices, artificial skins, etc. However, the mechanical and electrical performance of devices should be enhanced by new materials design or an innovative device structure to fulfill the requirements for such applications. Here, a poly(vinylidenefluoride) (PVDF) piezoelectric polymer-based hydrophilic nanocomposite (PHNC) sensing membrane using carbon nanofibers (CNF) and poly-acrylamido-methyl-propane-sulfonic acid (PAMPS) polyelectrolyte exhibiting enhanced mechanical and electrical performance is demonstrated. The hydrophilic PAMPS intruded in the PVDF/CNF composition, triggering microstructural changes and facilitating a strong polar β-phase PVDF formation. A dc conductivity of 0.43 S/cm and high electric current density (3.64 μA/cm2) were achieved from PVDF/CNF/PAMPS (80/2/18) PHNC. The piezoelectric performance of the PHNC was investigated for several bending cycles, and it generates the maximum peak output voltage up to 3.65 V under the repeated bending-releasing test procedure. A wearable sensor application is demonstrated by exposing it to different human body movements. During finger motion and elbow movements, the developed PHNC generated piezoelectric maximum peak output voltage up to 3.58 V at a bending angle of 180° for finger motion and 2.2 V for elbow movement. The fabricated PHNC are highly flexible and exhibit outstanding reproducibility and reliability, making them ideal for energy harvesting, the self-powered sensor in wearable electronic devices, electronic skin (e-skin), and soft robotics applications.
+Keywords: PVDF; PAMPS; Nanorods; Pressure sensor; Flexibility; Piezoelectric; Nanocomposite
+
+Yi Tong Chew, Wai Fen Yong,
+Recent advances of thin film nanocomposite membranes: Effects of shape/structure of nanomaterials and interfacial polymerization methods,
+Chemical Engineering Research and Design,
+Volume 172,
+2021,
+Pages 135-158,
+ISSN 0263-8762,
+https://doi.org/10.1016/j.cherd.2021.06.003.
+(https://www.sciencedirect.com/science/article/pii/S0263876221002367)
+Abstract: The emergence of nanomaterial arouses the development of thin film nanocomposite (TFN) in membrane separation technology. The incorporation of nanofillers into the TFN selective layer enhanced the membrane pure water permeability (PWP) with a slight improvement or even deterioration on the salt rejection. This trade-off is mainly due to the agglomeration of nanofillers, poor interactions between nanofiller and polymer matrix, and the formation of defects in the TFN selective layer. Hence, it is critical to explore and understand the fundamental knowledge of the effects of the shape/structure of nanofillers or interfacial polymerization methods on TFN membranes. This review summarizes the emerging development of TFN membranes incorporated with porous and non-porous nanofillers in the past 5 years, followed by the highlights of the effects of shape/structure of nanofillers on the TFN selective layer. Different shape/structure of nanofillers will influence the transport mechanisms of water molecules and solutes, resulting in a significant change in separation performance. Moreover, various modified interfacial polymerization methods to improve the dispersibility of nanofillers or fabrication of defect-free selective layers are discussed. The challenges and perspectives for TFN membranes are also highlighted.
+Keywords: Thin film nanocomposite membrane; Nanomaterials; Shape; Structure; Interfacial polymerization; Water purification
+
+S. Ningaraju, K. Jagadish, S. Srikantaswamy, A.P. Gnana Prakash, H.B. Ravikumar,
+Synthesis of graphite oxide nanoparticles and conductivity studies of PSF/GO and PSAN/GO polymer nanocomposites,
+Materials Science and Engineering: B,
+Volume 246,
+2019,
+Pages 62-75,
+ISSN 0921-5107,
+https://doi.org/10.1016/j.mseb.2019.06.002.
+(https://www.sciencedirect.com/science/article/pii/S0921510719301667)
+Abstract: Graphite oxide (GO) nanoparticles were synthesized by modified Hummer method. DLS results suggest that the average size of GO nanoparticles is 140 nm. EDX study confirms the presence of oxygen containing functional groups in GO sheet. Polysulfone (PSF/GO) and Poly (styrene co-acrylonitrile) (PSAN/GO) polymer nanocomposites were prepared by solution casting technique. The ionic and electronic conductivity behaviors of PSF/GO and PSAN/GO polymer nanocomposites were measured. The increased conductivity with increasing GO nanoparticles loading is due to the conductivity chain formation and increased mobility of charge carriers. The effect of crystallinity and free volume on electrical conductivity of PSF/GO and PSAN/GO polymer nanocomposites is explored. PSF/GO and PSAN/GO nanocomposites exhibit high electrical conductivity with low amount of (0.6 wt% and 1.0 wt%) GO loading is due to the formation of GO networks by the strong chemical interaction induced crystallinity of the polymer matrix. This is evident from FTIR and Raman spectroscopy studies.
+Keywords: Microstructure; Free volume; Interface; Conductivity; Crystallinity
+
+Rambabu Koyilapu, Suchismita Subhadarshini, Shuvra Singha, Tushar Jana,
+An in-situ RAFT polymerization technique for the preparation of poly(N-vinyl imidazole) modified Cloisite nanoclay to develop nanocomposite PEM,
+Polymer,
+Volume 212,
+2021,
+123175,
+ISSN 0032-3861,
+https://doi.org/10.1016/j.polymer.2020.123175.
+(https://www.sciencedirect.com/science/article/pii/S0032386120310004)
+Abstract: In this work, we have carried out in-situ RAFT polymerization of poly (N-vinylimidazole) (PNVI) in the inter-galleries of Cloisite nanoclay. The polymerization was carried out in two sets of different solvent-initiator combinations: N, N-Dimethyl formamide (DMF) - azobisisobutyronitrile (AIBN) and water/ethanol mixture - 4,4′-azobis (4-cyanovaleric acid) (ACV), with varying monomer ratios in order to synthesize PNVI of three different molecular weights. The three PNVI modified Cloisite clays (named as CP-1, CP-2 and CP-3 corresponding to low, medium and high molecular weight PNVI, respectively) were characterized thoroughly. X-ray diffraction and field emission scanning electron microscope analysis revealed the extent of delamination of the clay layers after the polymerization. The CP-3 clay, containing high molecular weight PNVI, was completely exfoliated, whereas the CP-1 clay with low molecular weight PNVI formed intercalated structure and CP-2 showed partial exfoliation. Gel permeable chromatography was used to determine the molecular weights of PNVI and the thermogravimetric analysis revealed the quantities of PNVI polymerized in the clays galleries. Further, the PNVI modified clays were used to prepare nanocomposites with poly (4,4′-diphenylether-5,5′-benzimidazole) (OPBI). All the nanocomposite membranes exhibited higher storage modulus (up to ~170% increase at 400 °C), tensile properties, acid doping levels (~30 mol/OPBI repeat unit), proton conductivity (0.19 S/cm at 180 °C) and controlled acid leaching. The CP-3 clay, with exfoliated clay layers and freely dispersed PNVI chains in the OPBI matrix, resulted in effective interfacial interactions with the OPBI chains and consequently demonstrated higher property enhancement of the nanocomposite membranes than when the other two clays were incorporated.
+Keywords: Poly (N-vinylimidazole); Polybenzimidazole; RAFT polymerization; Proton exchange membrane; Nanocomposites
+
+Yasser Zare,
+Development of Nicolais–Narkis model for yield strength of polymer nanocomposites reinforced with spherical nanoparticles,
+International Journal of Adhesion and Adhesives,
+Volume 70,
+2016,
+Pages 191-195,
+ISSN 0143-7496,
+https://doi.org/10.1016/j.ijadhadh.2016.07.006.
+(https://www.sciencedirect.com/science/article/pii/S0143749616301415)
+Abstract: In this paper, the Nicolais–Narkis model for yield strength of polymer nanocomposites containing spherical nanoparticles is developed assuming the role of interphase between polymer and nanofiller phases. The predictions of the developed model are compared with the experimental results and also, the effects of interphase properties on the yield strength are expressed. The calculated results show that the developed model can give much accurate predictions for yield strength of nanocomposites by proper thickness and strength of interphase, while the yield strength is under-predicted by disregarding of interphase. The developed model demonstrates that the yield strength improves by reduction in nanoparticle size and increment in interphase thickness. Also, the detrimental effect of weak interfacial adhesion between polymer matrix and nanoparticles is revealed.
+Keywords: Polymer nanocomposites; Yield strength; Particle size; Interphase properties
+
+Saeed Norouzi, Armin Kianfar, Mir Masoud Seyyed Fakhrabadi,
+Multiscale simulation study of anisotropic nanomechanical properties of graphene spirals and their polymer nanocomposites,
+Mechanics of Materials,
+Volume 145,
+2020,
+103376,
+ISSN 0167-6636,
+https://doi.org/10.1016/j.mechmat.2020.103376.
+(https://www.sciencedirect.com/science/article/pii/S0167663619306246)
+Abstract: Research on three-dimensional (3D) helical nanomaterials made from base nanotube and nanosheet structures has recently shown tremendous growth due to their outstanding electrical and mechanical properties. Herein, we report the molecular dynamics simulations of graphene spirals to evaluate their anisotropic, or more precisely, transversely isotropic, nanomechanical properties such as the elastic constants in different directions as well as the polymer interphase shape around the nano-spirals in representative volume elements of polyethylene-based nanocomposite materials. The results are presented for different dimensions of the spiral inner and outer radii. According to the outcomes, increasing the width of the graphene nano-coils increases both of their longitudinal and transverse elastic moduli. Furthermore, the 3D finite element models of the representative volume elements are built to analyze the mechanical properties of the nanocomposite materials vs. the volume fraction, geometry, interphase thickness and orientation of nano-fillers inside the matrix. The isotropic and transversely isotropic finite element models of the graphene spirals show considerable differences in the stress-strain diagrams and the elastic moduli of the polymer nanocomposite materials.
+Keywords: Graphene spirals; Molecular dynamics simulation; Finite element method; Transversely isotropic elastic model; Polymer nanocomposite materials
+
+Ambale Murthy Madhusudhana, Kikkeri Narasimha Shetty Mohana, Mahesh Bhaskar Hegde, Ningappa Kumara Swamy, Santhosh Arehalli Shivamurthy,
+Electrochemical sensor based on phenol formaldehyde amine polymer coated ZnO/GO nanocomposite: An innovative nano-framework for the determination of caffeine,
+Diamond and Related Materials,
+Volume 130,
+2022,
+109531,
+ISSN 0925-9635,
+https://doi.org/10.1016/j.diamond.2022.109531.
+(https://www.sciencedirect.com/science/article/pii/S0925963522007130)
+Abstract: An electrochemical sensor was fabricated by drop-casting ZnO/GO-phenol formaldehyde amine (ZnO/GO-PFA) nanocomposite onto graphite (Gr) electrode for the detection of caffeine. In this concern, the compositional features of the nanocomposite and their morphologies were examined by Fourier-transform infrared spectra (FT-IR), X-ray diffraction (XRD), scanning electron microscopy (SEM), X-ray photoelectron spectroscopy (XPS), and transition electron microscopy (TEM) techniques. The developed sensor exhibited strong electrocatalytic behaviour towards the oxidation of caffeine in phosphate buffer solution (PBS). EIS studies indicated a significant drop of charge transfer resistance (Rct) and cyclic voltammetry (CV) experiments showed a favourable ionic interaction between ZnO/GO-PFA and caffeine. Differential pulse voltammetry (DPV) exhibited a linearly varied oxidation peak with caffeine concentration range between 5- 155 μM, leading to 0.15 μM detection limit. The improved surface area of the ZnO/GO in the developed sensor led to remarkable stability and repeatability which is attributed to the growth of controlled sized ZnO nanocrystals on the graphene oxide (GO) sheet. The practical applicability of the developed sensor was tested with urine sample with the recovery rate of more than 97 %, suggesting that the fabricated sensor can find potential application in the electroanalysis of caffeine in drugs and food samples.
+Keywords: Caffeine; ZnO/GO-PFA nanocomposite; DPV and impedance
+
+Zeyu Li, Feihua Liu, He Li, Lulu Ren, Lijie Dong, Chuanxi Xiong, Qing Wang,
+Largely enhanced energy storage performance of sandwich-structured polymer nanocomposites with synergistic inorganic nanowires,
+Ceramics International,
+Volume 45, Issue 7, Part A,
+2019,
+Pages 8216-8221,
+ISSN 0272-8842,
+https://doi.org/10.1016/j.ceramint.2019.01.124.
+(https://www.sciencedirect.com/science/article/pii/S0272884219301294)
+Abstract: It is of crucial importance to develop novel dielectric materials with high discharge energy densities to meet the urgent requirements in the rapid advances in modern electronics and electrical power systems. In this work, we describe a new class of sandwich-structured ceramic-polymer nanocomposites base on poly(vinylidene fluoride-co-hexafluoropropylene) exhibiting outstanding energy storage performance. The central layer of the composite consists of MgO nanowires to offer high breakdown strength, whereas the outer layers contain BaTiO3 nanofibers to provide improved dielectric constant of the composites. The systematic investigation gave the composites with 2 wt% MgO in the central layer and 20 wt% BaTiO3 in the outer layers to yield the best energy density of 15.55 J cm−3 with a charge-discharge efficiency of 68% at the Weibull breakdown strength of 416 MV m−1. It is found that the trilayered nanocomposite exhibits superior energy storage performance as compared to the corresponding single-layered composite films. The result demonstrates the uniqueness of the layered structure to incorporate multiple inorganic components into polymer with enhanced collective properties for energy applications.
+Keywords: MgO nanowires; BaTiO3 nanofibers; Ceramic-polymer nanocomposites; Energy storage
+
+S. Taktak, S. Fakhfakh, S. Rondot, A. Tara, O. Jbara,
+Behavior under electron irradiation of two clay-based polymer nanocomposites PPgMA/OMMT and PBS/OMMT,
+Materials Chemistry and Physics,
+Volume 275,
+2022,
+125230,
+ISSN 0254-0584,
+https://doi.org/10.1016/j.matchemphys.2021.125230.
+(https://www.sciencedirect.com/science/article/pii/S0254058421010130)
+Abstract: The effect of nanoparticles on the transport and trapping of electric charges as well as on the emission of secondary electrons from two nanocomposites subjected to electron irradiation in a scanning electron microscope (SEM) is studied experimentally. These nanocomposites are polypropylene grafted with maleic anhydride (PPgMA) and bio-based polybutylene succinate (PBS) filled with organically modified montmorillonite (OMMT) clay nanoparticles (i.e. cloisite 20: C20). Samples having 0%, 1%, 2%, 3% and 5% clay nanoparticles by weight are used. In order to determine the temporal evolution of the electrical charge trapped in each nanocomposite and that of its total electron emission yield (TEEY), simultaneous measurements of leakage and displacement currents, induced in the nanocomposites during and after electron irradiation, are performed using an appropriate device. Besides, broadband Dielectric Spectroscopy (BDS) is also used to study change of electrical characteristics of the neat polymeric matrices with the concentration of clay nanoparticles, namely dielectric constant and electrical conductivity. As surprising as it sounds, measurements indicate that not only the leakage current increases as the amount of clay nanoparticles increases but also the trapped charge. This behavior could be linked in particular to the change in the mobility of charge carriers due to the proliferation of interfaces between nanoparticles and neighboring materials (matrix). As the proliferation of interfaces is dependent on the state of dispersion of the clay nanoparticles within the host matrix, this state was studied using X-ray diffraction (XRD) analysis. The results highlight the impact of nanoparticle reinforcement on the electrical properties of studied polymers such as storage ability of electrical charges and also their transport.
+Keywords: Polypropylene; Polybutylene succinate; Nanoclay; e-irradiation; Charging; Discharging; Transport; Mobility; Secondary electron emission
+
+Priyanka Dhatarwal, R.J. Sengwa,
+Tunable β-phase crystals, degree of crystallinity, and dielectric properties of three-phase PVDF/PEO/SiO2 hybrid polymer nanocomposites,
+Materials Research Bulletin,
+Volume 129,
+2020,
+110901,
+ISSN 0025-5408,
+https://doi.org/10.1016/j.materresbull.2020.110901.
+(https://www.sciencedirect.com/science/article/pii/S0025540819316915)
+Abstract: Polymer nanocomposites (PNCs) are key materials in the advances of flexible-type microelectronic devices based on polymer engineering and technology. In this study, three-phase hybrid PNC films of poly(vinylidene fluoride)/poly(ethylene oxide) (PVDF/PEO) blend dispersed with amorphous silica (SiO2) nanoparticles were prepared and characterized by different spectroscopic techniques. The results reveal that the increase of SiO2 contents decreases the degree of crystallinity and relative fraction of PVDF β-phase crystals, and considerably modifies the spherulitic morphology of PVDF/PEO blend matrix. The dielectric spectroscopy of frequency range 20 Hz–1 MHz confirms a dominant contribution of interfacial polarization at low frequencies and a significant hindrance to the PEO chain segmental dynamics. Furthermore, the dielectric permittivity of these films increases linearly up to 5 wt% loading of nanofiller. The tunable structural and dielectric properties of the PVDF/PEO/SiO2 films with SiO2 concentration confirm them technologically appealing polymeric nanodielectrics for energy storage and organoelectronic device applications.
+Keywords: Polymer nanocomposite; PVDF/PEO blend; SiO2 nanoparticles; Dielectric permittivity; Nanodielectrics; XRD
+
+H.H. Ibrahiem, M.I. El-Dessouky, M.R. El-Naggar, E.H. El-Masry, M.M. Abo-Aly,
+Microstructure of gamma-ray developed polymeric nanocomposite respecting cesium and cobalt removal from aqueous solutions,
+Applied Radiation and Isotopes,
+Volume 187,
+2022,
+110323,
+ISSN 0969-8043,
+https://doi.org/10.1016/j.apradiso.2022.110323.
+(https://www.sciencedirect.com/science/article/pii/S0969804322002147)
+Abstract: The nanoparticles of fly ash (FA) were obtained by high energy ball milling of their parent Class C kind for subsequent synthesis of poly(acrylamide-acrylic acid)/fly ash (poly(AM-AA)/FA) nanocomposite. The gamma-radiation induced polymerization was applied to achieve this concern. Different techniques were utilized to characterize such nanocomposite. The sorption abilities of the synthesized nanocomposite toward 60Co2+ and 134Cs + radionuclides were evaluated using batch and fixed-bed column approaches. Batches were designed at constants of solution pH (6.5–7.0 ± 0.02), nanocomposite particle size and dosage (106–250 μm and 0.1 L/g, respectively). The microstructure of such nanocomposite (<100 nm) was mainly amorphous with porous rough surfaces containing homogenous distribution of the incorporated nano-FA. About 56.46 and 47.9 mg/g of Co2+ and Cs+ were sorbed at equilibrium with an ion exchange reaction mechanism. Langmuir, Freundlich and Dubinin–Radushkevich D–R isotherm model parameters were calculated indicating the favorability of all sorption processes. The spontaneous and endothermic natures of sorption were observed by the calculated ΔG° and ΔH° thermodynamic parameters, respectively. Thomas, Yoon–Nelson and Adams Bohart models were fitted to the fixed-bed column data at varied conditions. The predicted sorption capacities of Thomas were very close to those obtained experimentally. Modeling of the fixed-bed column data dominates that the external mass transfer kinetics was predominant in the initial parts of the fixed-beds. Values required for retaining 50% of the initial sorbate concentration were extended from 89.05 to 68.55 to 177.2 and 149.3 min for 60Co2+ and 134Cs + radionuclides, respectively, by increasing bed depth from 1.5 to 3.0 cm. Modification of FA to its nano-scale form with the subsequent synthesis of a nanocomposite material having sorption capabilities made a duplicate beneficial environmental concern.
+Keywords: Nano-fly ash; Poly(acrylamide-acrylic acid); Fission/activation products; Sorption
+
+Yasser Zare, Kyong Yop Rhee,
+Correlation of tunneling diameter between neighboring carbon nanotubes in polymer nanocomposites to interphase depth, tunneling factors and the percentage of networked nanoparticles,
+Journal of Physics and Chemistry of Solids,
+Volume 142,
+2020,
+109467,
+ISSN 0022-3697,
+https://doi.org/10.1016/j.jpcs.2020.109467.
+(https://www.sciencedirect.com/science/article/pii/S0022369720303723)
+Abstract: This paper presents a simple expression for tunneling diameter between neighboring carbon nanotubes (CNT) in polymer CNT nanocomposites (PCNT). Two developed models for conductivity of PCNT assuming interphase, tunneling effect, the fraction of networks and the whole resistance of components are linked to suggest the tunneling diameter by CNT, interphase and tunneling properties. The suggested equation expresses the variation of tunneling diameter at different filler concentrations for some samples. In addition, the suggested equation is applied to predict and justify the tunneling diameter at various levels of all factors. The tunneling diameter increases by the addition of filler concentration in the samples. In addition, thick CNT, poor percolation onset, dense interphase, high net fraction, high CNT conductivity and short tunneling distance expand the tunneling diameter. This study can help the researchers to enlarge the tunneling diameter providing the most desirable conductivity in nanocomposites.
+Keywords: Polymer CNT nanocomposites; Tunneling conductivity; Tunneling diameter; Interphase region
+
+M. Haghgoo, M.K. Hassanzadeh-Aghdam, R. Ansari,
+A comprehensive evaluation of piezoresistive response and percolation behavior of multiscale polymer-based nanocomposites,
+Composites Part A: Applied Science and Manufacturing,
+Volume 130,
+2020,
+105735,
+ISSN 1359-835X,
+https://doi.org/10.1016/j.compositesa.2019.105735.
+(https://www.sciencedirect.com/science/article/pii/S1359835X19304841)
+Abstract: This article investigates electrical conductivity and piezoresistivity of carbon nanotube (CNT)-polymer nanocomposites using an efficient analytical model. The effects of chopped carbon fibers on the electrical conductivity and percolation behavior of multiscale polymer-based nanocomposites containing CNTs are examined at various maximum angular orientations and different polymer matrix barrier heights. The multiscale nanocomposite (MSNC) electrical conductivity and percolation onset are found to be dependent on the carbon fiber and CNT geometry and dispersion. The tunneling effect is discussed as an important mechanism to explain the low percolation threshold and nonlinear electric behavior of MSNC. A comparison between nanocomposites filled with CNTs and MSNC reinforced with CNTs and chopped carbon fibers demonstrates different percolation behaviors. Moreover, the influences of CNT position and orientation changes on the piezoresistivity of polymer nanocomposites are studied. Resistance change ratio as a function of applied strain demonstrates a non-linear behavior due to tunneling resistance change between CNTs.
+Keywords: Electrical conductivity; Percolation threshold; Piezoresistivity; Multiscale nanocomposite (MSNC)
+
+Parmeshwar Lal Meena, Jitendra Kumar Saini,
+Synthesis of polymer-metal oxide (PANI/ZnO/MnO2) ternary nanocomposite for effective removal of water pollutants,
+Results in Chemistry,
+Volume 5,
+2023,
+100764,
+ISSN 2211-7156,
+https://doi.org/10.1016/j.rechem.2023.100764.
+(https://www.sciencedirect.com/science/article/pii/S2211715623000036)
+Abstract: Current study describes the synthesis of novel PANI/ZnO/MnO2 ternary nanocomposite material and its application for catalytic reduction of 4-nitrophenol (4-NP) in presence of NaBH4, and adsorptive elimination of crystal violet (CV) dye from the aqueous phase. Due to the higher specific surface area (64 m2 g−1), and pore volume (0.3085 cm3 g−1) mesoporous nature of the prepared ternary nanocomposite (TNC), it exhibited amazing reduction and adsorption ability. 99.73 % of the total volume of pores is contributed by the mesopores for the constructed highly porous and granular TNC. 98.13 % of the yellow-colored 4-NP was catalytically reduced to colorless 4-aminophenol (4-AP) in 10 min of reaction time over TNC catalyst and the reduction reaction followed the pseudo-second-order kinetics with the 0.219 min−1 of kinetic rate constant. On the other hand, 96.13 % of CV dye was eliminated by adsorption over TNC in 60 min. The adsorption process followed the pseudo-second-order kinetics as validated by the qe and R2 values, and the kinetics of the adsorption reaction is found to be concurrently channeled by intraparticle and film diffusion processes, however, not directed by pore diffusion on heterogeneous adsorption sites. The adsorption equilibrium experimental data showed better fittingness to the Langmuir isotherm which validated the monolayer adsorption of CV dye on the homogeneous surface. The thermodynamic study confirmed the feasibility and spontaneity of the adsorption process, and the adsorption of CV over TNC is endothermic which increased disorderliness at the interface of the nanocomposite. Thus, the prepared TNC is a prominent candidate for catalytic and adsorption applications, and it can be utilized as an efficient material for water remediation purposes.
+Keywords: Ternary nanocomposite; PANI/ZnO/MnO2; 4-Nitrophenol; Crystal violet
+
+Hussein M. Etmimi, Peter E. Mallon, Ronald D. Sanderson,
+Polymer/graphite nanocomposites: Effect of reducing the functional groups of graphite oxide on water barrier properties,
+European Polymer Journal,
+Volume 49, Issue 11,
+2013,
+Pages 3460-3470,
+ISSN 0014-3057,
+https://doi.org/10.1016/j.eurpolymj.2013.08.004.
+(https://www.sciencedirect.com/science/article/pii/S0014305713004138)
+Abstract: Water barrier properties (i.e., water resistance) of poly(styrene-co-butyl acrylate)/graphite oxide (poly(St-co-BA)/GO) nanocomposites were studied using hydrophobicity and permeability analysis. Poly(St-co-BA)/GO nanocomposite latices were obtained using the miniemulsion polymerization technique. The hydrophobicity of the synthesized nanocomposites was studied using contact angle measurements, while water permeability was obtained by measuring the moisture vapor transmission rate (MVTR). The nanocomposites were treated with hydrazine hydrate in order to reduce the functional groups on graphite oxide (GO). The focus was on determining the effect of reducing the functional groups of GO on the water barrier properties of its polymer nanocomposites. In general, the nanolayered graphene platelets in GO and RGO resulted in lower water permeation in the final films compared to pure polymer. However, results showed that nanocomposites containing the reduced-GO (RGO) had better water resistance and barrier properties compared to those made with unreduced GO (i.e., as-prepared GO). The nanocomposites containing RGO had higher hydrophobicity and lower water uptake and MVTR compared to those made with as-prepared GO, resulting in better barrier performance. This was attributed to the high hydrophobic nature of the RGO, which exhibited lower water solubility that resulted in films with lower MVTR values compared to those made with as-prepared GO.
+Keywords: Polymer nanocomposites; Graphite oxide; Barrier properties; Miniemulsion polymerization
+
+Duc C. Phan, David G. Goodwin, Benjamin P. Frank, Edward J. Bouwer, D. Howard Fairbrother,
+Biodegradability of carbon nanotube/polymer nanocomposites under aerobic mixed culture conditions,
+Science of The Total Environment,
+Volume 639,
+2018,
+Pages 804-814,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2018.05.137.
+(https://www.sciencedirect.com/science/article/pii/S0048969718317789)
+Abstract: The properties and commercial viability of biodegradable polymers can be significantly enhanced by the incorporation of carbon nanotubes (CNTs). The environmental impact and persistence of these carbon nanotube/polymer nanocomposites (CNT/PNCs) after disposal will be strongly influenced by their microbial interactions, including their biodegradation rates. At the end of consumer use, CNT/PNCs will encounter diverse communities of microorganisms in landfills, surface waters, and wastewater treatment plants. To explore CNT/PNC biodegradation under realistic environmental conditions, the effect of multi-wall CNT (MWCNT) incorporation on the biodegradation of polyhydroxyalkanoates (PHA) was investigated using a mixed culture of microorganisms from wastewater. Relative to unfilled PHA (0% w/w), the MWCNT loading (0.5–10% w/w) had no statistically significant effect on the rate of PHA matrix biodegradation. Independent of the MWCNT loading, the extent of CNT/PNC mass remaining closely corresponded to the initial mass of CNTs in the matrix suggesting a lack of CNT release. CNT/PNC biodegradation was complete in approximately 20 days and resulted in the formation of a compressed CNT mat that retained the shape of the initial CNT/PNC. This study suggests that although CNTs have been shown to be cytotoxic towards a range of different microorganisms, this does not necessarily impact the biodegradation of the surrounding polymer matrix in mixed culture, particularly in situations where the polymer type and/or microbial population favor rapid polymer biodegradation.
+Keywords: Aerobic microbial degradation; Carbon nanotube/polymer nanocomposites; Mixed culture; Polymer nanocomposite transformation; Carbon nanotube accumulation
+
+Shurooq S. Al-Abbas, Rusul A. Ghazi, Athmar K. Al-shammari, Nisreen R. Aldulaimi, Ali R. Abdulridha, Sameer H. Al-Nesrawy, Ehssan Al-Bermany,
+Influence of the polymer molecular weights on the electrical properties of Poly(vinyl alcohol) – Poly(ethylene glycols)/Graphene oxide nanocomposites,
+Materials Today: Proceedings,
+Volume 42, Part 5,
+2021,
+Pages 2469-2474,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2020.12.565.
+(https://www.sciencedirect.com/science/article/pii/S2214785320402822)
+Abstract: Graphene has unique electrical properties at room temperature properties with a flexible 2D layer and stronger material over discovered and use to enhance the electrical properties of materials. This study investigated the influence of two important factors the molecular weights (Mw) of polymer and the concentration of nanofillers on the electrical properties of samples. Hybrid nanocomposites were fabricated from polyvinyl alcohol (PVA) and polyethylene glycol (PEG) with three different molecular weights (4 k, 8 k, and 20 k) using developed mixing-sonication-solution methods. This method was successfully exhibited a fine homogeneity and good dispersion of both polymers and nanofillers in the matrix as displayed by using an optical microscope (OM). The effect of the addition of graphene oxide on the alternating electrical properties showed a reduction in the dielectric constant and the isolation loss of the polymer compounds (PVA-PEG-GO) with increasing the frequency of the electric field and the loss of isolation increased. It was also shown that the increase of electrical conductivity is noticeable with samples by increasing the molecular weight of PEGs to the highest at 20 k Mw. Increasing the polymer molecular weight in addition to the contribution of GO revealed an extraordinary improvement of the electrical properties that bring promising and performance materials for electronic, photovoltaic devices, heterojunction, solar cells, and energy storage systems, other substantial applications.
+Keywords: Molecular weight; Graphene; Polyethylene glycol; Electrical properties; Polyvinyl alcohol; Nanocomposite
+
+Hongbo Gu, Jiang Guo, Huige Wei, Xi Zhang, Jiahua Zhu, Lu Shao, Yudong Huang, Neel Haldolaarachchige, David P. Young, Suying Wei, Zhanhu Guo,
+Magnetoresistive conductive polymer-tungsten trioxide nanocomposites with ultrahigh sensitivity at low magnetic field,
+Polymer,
+Volume 55, Issue 3,
+2014,
+Pages 944-950,
+ISSN 0032-3861,
+https://doi.org/10.1016/j.polymer.2013.12.024.
+(https://www.sciencedirect.com/science/article/pii/S0032386113011245)
+Abstract: The effect of conductive polymer matrix including polyaniline (PANI) and polypyrrole (PPy) on the magnetoresistance (MR) behaviors in the variable range hopping (VRH) regime has been investigated in the disordered polymer nanocomposites containing tungsten trioxide (WO3) nanoparticles. These nanocomposites have demonstrated ultrahigh MR sensitivity at low magnetic field regime. The observed positive MR has been well explained by the wave-function shrinkage model. The conductive polymer matrix has shown different effects on the MR behaviors of the nanocomposites. The WO3/PANI nanocomposites have a lower localization length (a0) and density of states at the Fermi level (N(EF)), and higher average hopping distance (Rhop) and average hopping energy (W) compared with those of the WO3/PPy nanocomposites.
+Keywords: Non-magnetic conductive polymer nanocomposites; Electron transport; Magnetoresistance
+
+B.V.S.R.N. Santhosi, K. Ramji, N.B.R. Mohan Rao,
+Design and development of polymeric nanocomposite reinforced with graphene for effective EMI shielding in X-band,
+Physica B: Condensed Matter,
+Volume 586,
+2020,
+412144,
+ISSN 0921-4526,
+https://doi.org/10.1016/j.physb.2020.412144.
+(https://www.sciencedirect.com/science/article/pii/S0921452620301563)
+Abstract: The effect of filler material concentration on Electromagnetic Interference (EMI) Shielding Effectiveness (SE) of polymeric nanocomposites has been studied. Computational model was developed for shielding performance of graphene polymeric nanocomposites. Nanocomposites were fabricated using High Pressure Resin Transfer Molding (HPRTM) method, latter EM shielding properties were measured experimentally using waveguide technique. It is observed that SE increases with increase in wt% of graphene. From the results, it is perceived that nanocomposite with 2.5 wt% of graphene shows good shielding with the range of −27 dB to −30 dB, doubled in comparison to pure polymeric composite. Numerical simulations of various graphene nanocomposites have been carried out for the prediction of SE while incorporating EM properties of corresponding nanocomposite as input. Excellent agreement between numerical simulations and experimental results has been observed. The developed numerical model predicts SE values of graphene nanocomposites in −30 dB range which certainly falls in the X-band.
+Keywords: Graphene nanocomposite; Computational model; EMISE; EM Properties; Scattering parameters; X-band
+
+Jianzhong Ma, Huiyuan Liang, Linfeng Wei, Li Ma, Jianing Wang, Wenbo Zhang,
+Absorption-dominated double-layered electromagnetic interference shielding polymer-based nanocomposites: Optimal design and manufacturing,
+Progress in Organic Coatings,
+Volume 186,
+2024,
+107966,
+ISSN 0300-9440,
+https://doi.org/10.1016/j.porgcoat.2023.107966.
+(https://www.sciencedirect.com/science/article/pii/S0300944023005623)
+Abstract: Double-layered electromagnetic interference (EMI) shielding composites having a gradient structure to achieve an efficient EMI shielding effectiveness (SE) with a low electromagnetic wave reflectivity (R) would be highly desired for engineering applications to control secondary electromagnetic pollution. However, it is still challenging to optimize their performance and structure efficiently. In this work, theoretical calculations were conducted on the prepared double-layer shielding polymer composite material using an improved normalized input impedance (NII) method to verify and optimize the structural composition and R-value of the composite material. The R-value of the composite can be calculated iteratively based on the conductivity and electromagnetic parameters of each material layer, and in this way the optimal structural composition to achieve the lowest R-value can be well predicted. Thus, the optimal structural composition to achieve the lowest R value can be well predicted from the theoretical calculation. Suggested by the theoretical calculation, the double-layered waterborne polyacrylate/polydopamine modified reduced graphene oxide/Cu@Ag (WPA/rGO@PDA/Cu@Ag) composite has achieved broadband low-reflectivity. The R values of the resultant WPA/rGO@PDA-20 wt%/Cu@Ag-1.448 mm composite are <0.5 over 8.3–12.4 GHz, implying its broadband low reflection performance while possessing a high EMI shielding effectiveness beyond 44.3 dB. The modified NII method is promising for advancing the practical production and engineering application of multilayered absorption-dominated EMI shielding composites.
+Keywords: Electromagnetic interference shielding; Normalized input impedance method; Electromagnetic wave reflectivity; Broadband absorption
+
+Guangjian Zeng, Meiying Liu, Xinhua Liu, Qiang Huang, Dazhuang Xu, Liucheng Mao, Hongye Huang, Fengjie Deng, Xiaoyong Zhang, Yen Wei,
+Mussel inspired preparation of MoS2 based polymer nanocomposites: The case of polyPEGMA,
+Applied Surface Science,
+Volume 387,
+2016,
+Pages 399-405,
+ISSN 0169-4332,
+https://doi.org/10.1016/j.apsusc.2016.05.093.
+(https://www.sciencedirect.com/science/article/pii/S0169433216311126)
+Abstract: In this work, we report a facile strategy to prepare PEGylated MoS2 nanosheets through the combination of mussel inspired chemistry and Michael addition reaction. The MoS2 nanosheets were obtained from lithium intercalation and exfoliation method. Meanwhile, the amino-contained poly((polyethylene glycol) methyl ether methacrylate) (PPEGMA) were obtained via chain transfer free radical polymerization using cysteamine hydrochloride as the chain transfer agents and PEGMA as the monomer. To introduce PPEGMA on MoS2 nanosheets, polydopamine (PDA) thin films were first coated on the surface of MoS2 nanosheets through self polymerization of dopamine as the ad-layers, which can react with amino-terminated PPEGMA through Michael addition reaction. The structure, morphology and chemical compositions of MoS2 nanosheets and MoS2-PDA-PPEGMA have been characterized by various characterization techniques. The results demonstrated that the amino-terminated PPEGMA can be successfully immobilized on MoS2 nanosheets via PDA thin films as the ad-layers. More importantly, the strategy described in this work could also be utilized for surface immobilization of various polymers on many other materials and surfaces because of the universal adhesion of PDA and the good monomer applicability of chain transfer free radical polymerization. Taken together, we developed a facile and versatile method to fabricate multifunctional MoS2 based polymer nanocomposites with designable properties and applications via combination of mussel inspired and chain transfer free radical polymerization. The resultant composites are expected to be potentially used for drug delivery and photothermal cancer treatment.
+Keywords: MoS2 nanosheets; Mussel inspired chemistry; PDA based polymer nanocomposites; Chain transfer free radical polymerization
+
+Guannan Wang, Raju Raju, Kiho Cho, Sandy Wong, B.Gangadhara Prusty, Martina H. Stenzel,
+3D printed nanocomposites using polymer grafted graphene oxide prepared by multicomponent Passerini reaction11Electronic supplementary information (ESI) available. See DOI: 10.1039/d0py01286f,
+Polymer Chemistry,
+Volume 11, Issue 45,
+2020,
+Pages 7253-7263,
+ISSN 1759-9954,
+https://doi.org/10.1039/d0py01286f.
+(https://www.sciencedirect.com/science/article/pii/S1759995422029138)
+Abstract: In order to generate 3D printed nanocomposites, good compatibility between the polymer resin and the nanoparticle is necessary. This is often achieved by modifying the surface of the nanoparticle such as the here employed graphene oxide (GO). In this work, we have explored the use of the multicomponent Passerini reaction to graft poly(N-isopropyl acrylamide) (PNIPAM) to and from the surface of GO in order to increase the dispersibility of GO in the triethylene glycol dimethacrylate (TEGDMA) and bisphenol A-glycidyl methacrylate (Bis-GMA) resin. For the grafting to process, aldehyde-terminated PNIPAM was prepared by RAFT polymerization. The polymers of various lengths – PNIPAM80, PNIPAM120, and PNIPAM228 – were grafted onto commercial GO, which was used as received, simply by stirring the aqueous solution at ambient temperature in the presence of cyclohexyl isocyanide. The grafting density was found to decrease with increasing molecular weight from 0.61 to 0.12 polymers per nm2. The grafting from procedure entailed the immobilization of RAFT agents by Passerini reaction on the surface of GO, followed by RAFT polymerization of NIPAM. Analysis of the resulting polymer grafted GO by thermogravimetric analysis (TGA) suggests that the growth of the polymer on the surface slowed down. The various PNIPAM grafted GO was mixed with the resin and 3D printed using a three-component visible light initiator. The 3D printed strips were analyzed by three-point bending test revealing an improvement in flexural modulus of 60–70% at 0.10 wt% modified GO. In contrast, the flexural modulus of the resin containing unmodified GO decreased noticeable.
+
+Lovely Ranjta, C.P. Singh, Neelesh Rai,
+Experimental investigations on nano-ferrite embedded nanocomposite polymer electrolytes for proton-conducting rechargeable batteries application,
+Materials Today: Proceedings,
+Volume 54, Part 3,
+2022,
+Pages 702-709,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2021.10.408.
+(https://www.sciencedirect.com/science/article/pii/S2214785321069145)
+Abstract: The present work is based on the influence of addition of BiNiFeO3 nanoparticles on the charge transport mechanism of PVA-NH4CH3COOpolymer gel electrolyte. Pure BiNiFeO3 nanoparticles and the gel membranes are synthesized by sol-gel and solution cast methods respectively. XRD spectrum of pure BiNiFeO3 confirms the nanometric dimension. FTIR studies reveals interaction and shifting in characteristics peaks of constituents. The impedance analysis shows at 0.4 wt% BiNiFeO3 embedded with electrolyte has higher bulk conductivity. Cyclic voltammetry analysis on the membranes shows better electrochemical stability i.e. ±4.68 V and confirms the availability of H+ ion (proton) in the system suggested proton-conducting batteries application.
+Keywords: Fourier transform infrared spectroscopy; Gel polymer electrolyte; Impedance spectroscopy; Linear sweep voltammetry; Nano ferrite
+
+Mohammad Bigdeloo, Elaheh Kowsari, Ali Ehsani, Seeram Ramakrishna, Amutha Chinnappan,
+Activated carbon derived from fennel flower waste as high-efficient sustainable materials for improving cycle stability and capacitance performance of electroactive nanocomposite of conductive polymer,
+Journal of Energy Storage,
+Volume 55, Part D,
+2022,
+105793,
+ISSN 2352-152X,
+https://doi.org/10.1016/j.est.2022.105793.
+(https://www.sciencedirect.com/science/article/pii/S2352152X22017819)
+Abstract: In the present work, activated carbon (AC) was obtained from low-cost biowaste of black seed fennel flower (Lc-FF) through facile chemical activation. However, activated fennel flower (Ac-FF) exhibited relatively stable electrochemical performance among ACs, to enhance the electrochemical properties such as cyclic stability, energy density, power density, and specific capacitance (Cs), combined with functionalized graphene oxide (FGO). Then, to obtain POAP/FGO/Ac-FF (ternary nanocomposite), an extremely-slim layer of Poly-orthoaminophenol (POAP) was coated on the binary nanocomposite (FGO/Ac-FF). From the SEM and TEM images, the layered structure of the nanocomposite surface was visible, which led to the acceleration of ion transfer rate. In addition, an excellent specific surface area (SSA) of 2199.2 m2.g−1 was achieved via Brunauer-Emmett-Teller (BET) analysis. Electrochemical analyses including galvanostatic charge-discharge (GCD), cyclic voltammetry (CV), and electrochemical impedance spectroscopy (EIS) were conducted to evaluate and compare the energy storage behavior of electrode materials. In a three-electrode system, the Cs value for the ternary nanocomposite electrode was calculated 1400.2 F.g−1 at 2 A.g−1. Besides, this material exhibited excellent cyclic stability with 94.4 % capacity retention after 5000 continuous charge-discharge cycles. This work provides new insights into the development of biowaste-based electrodes for high-performance supercapacitors (SCs).
+Keywords: Supercapacitor; Electrode material; Valorization; Biowaste; Activated carbon
+
+Guangli Li, Xiaoman Qi, Jingtao Wu, Lijian Xu, Xuan Wan, Ying Liu, Yuwei Chen, Qing Li,
+Ultrasensitive, label-free voltammetric determination of norfloxacin based on molecularly imprinted polymers and Au nanoparticle-functionalized black phosphorus nanosheet nanocomposite,
+Journal of Hazardous Materials,
+Volume 436,
+2022,
+129107,
+ISSN 0304-3894,
+https://doi.org/10.1016/j.jhazmat.2022.129107.
+(https://www.sciencedirect.com/science/article/pii/S0304389422008974)
+Abstract: Norfloxacin (NOR) is an antibiotic commonly used to treat humans and food-producing animals. Owing to NOR abuse, its residues are frequently found in animal-derived food products and the surrounding environment. Therefore, development of an efficient analytical technique for the selective determination of trace NOR is greatly significant for food safety and environmental protection. Here, we fabricated an ultrasensitive, label-free molecularly imprinted polymer (MIP) voltammetric sensor for the selective determination of NOR, based on an Au nanoparticle-functionalized black phosphorus nanosheet nanocomposite (BPNS-AuNP) covered by a polypyrrole-imprinted film. BPNS-AuNP nanocomposites were prepared via an in-situ one-step method without the use of reducing agents. The imprinted polypyrrole film was formed on the surface of the BPNS-AuNPs in the presence of NOR. The physical properties and electrochemical behavior of the MIP/BPNS-AuNPs were investigated using various characterization techniques, and the analytical parameters were optimized. We found that BPNS-AuNPs improve the ambient stability and electrocatalytic activity, providing a large surface area for locating a higher number of specific recognition sites. Consequently, the MIP/BPNS-AuNP/GCE showed excellent sensing performance toward NOR, with a wide linear response range (0.1 nM − 10 μM), an extremely low limit of detection (0.012 nM), and extraordinary selectivity. Moreover, the MIP/BPNS-AuNP/GCE was used to determine NOR in various experimental samples with satisfactory results.
+Keywords: Black phosphorus nanosheets; Au nanoparticles; Polypyrrole; Molecularly imprinted polymer; Norfloxacin determination
+
+Peng Gao, Meiying Liu, Jianwen Tian, Fengjie Deng, Ke Wang, Dazhuang Xu, Liangji Liu, Xiaoyong Zhang, Yen Wei,
+Improving the drug delivery characteristics of graphene oxide based polymer nanocomposites through the “one-pot” synthetic approach of single-electron-transfer living radical polymerization,
+Applied Surface Science,
+Volume 378,
+2016,
+Pages 22-29,
+ISSN 0169-4332,
+https://doi.org/10.1016/j.apsusc.2016.03.207.
+(https://www.sciencedirect.com/science/article/pii/S0169433216307000)
+Abstract: Graphene oxide (GO) based polymer nanocomposites have attracted extensive research interest recently for their outstanding physicochemical properties and potential applications. However, surface modification of GO with synthetic polymers has demonstrated to be trouble for most polymerization procedures are occurred under non-aqueous solution, which will in turn lead to the restacking of GO. In this work, a facile and efficient “one-pot” strategy has been developed for surface modification of GO with synthetic polymers through single-electron-transfer living radical polymerization (SET-LRP). The GO based polymer nanocomposites were obtained via SET-LRP in aqueous solution using poly(ethylene glycol) methyl ether methacrylate (PEGMA) as the monomer and 11-bromoundecanoic acid as the initiator, which could be effectively adsorbed on GO through hydrophobic interaction. The successful preparation of GO based polymer nanocomposites was confirmed by a series of characterization techniques such as 1H nuclear magnetic resonance, Fourier transform infrared spectroscopy, thermogravimetric analysis, transmission electron microscopy and X-ray photoelectron spectroscopy. The resultant products exhibit high water disperisibility, excellent biocompatibility and high efficient drug loading capability, making these PEGylated GO nanocomposites promising candidates for biomedical applications.
+Keywords: Graphene oxide; Surface modification; Single-electron-transfer living radical polymerization; Polymer nanocomposites; Drug delivery
+
+Chuan Xiao, Yuming Zhao, Wei Zhou,
+Nanoimprinted conducting nanopillar arrays made of MWCNT/polymer nanocomposites: a study by electrochemical impedance spectroscopy††Electronic supplementary information (ESI) available. See DOI: 10.1039/d0na00200c,
+Nanoscale Advances,
+Volume 3, Issue 2,
+2021,
+Pages 556-566,
+ISSN 2516-0230,
+https://doi.org/10.1039/d0na00200c.
+(https://www.sciencedirect.com/science/article/pii/S2516023023015241)
+Abstract: ABSTRACT
+Conducting vertical nanopillar arrays can serve as three-dimensional nanostructured electrodes with improved electrical recording and electrochemical sensing performance in bio-electronics applications. However, vertical nanopillar-array electrodes made of inorganic conducting materials by the conventional nanofabrication approach still face challenges in terms of high manufacturing costs, poor scalability, and limited carrier substrates. Here, we report a new type of conducting nanopillar array composed of multi-walled carbon nanotube (MWCNT) doped polymeric nanocomposites, which are manufactured on the wafer-scale on both rigid and flexible substrates by direct nanoimprinting of perfluoropolyether nanowell-array templates into uncured MWCNT/polymer mixtures. By controlling the MWCNT ratios and the annealing temperatures during the fabrication process, MWCNT/polymer nanopillar arrays can be endowed with outstanding electrical properties with high DC conductivity (∼4 S m−1) and low AC electrochemical impedance (∼104 Ω at 1000 Hz). Moreover, by electrochemical impedance spectroscopy (EIS) measurements and equivalent circuit modeling analysis, we can decompose the overall impedance of the MWCNT/polymer nanopillar arrays in the electrolyte into multiple bulk and interfacial circuit components, and can thus illustrate their different dependences on the MWCNT ratios and the annealing temperatures. In particular, we find that an appropriate annealing process can significantly reduce the anomalous ion diffusion impedance and improve the MWCNT/polymer nanopillars' impedance properties in the electrolyte.
+
+Haichao Jiang, Jing Yang, Mengyu Di, Rui Xiong, Ting Wang, Shanlin Qiao,
+Fabrication of three-dimensional nanocomposite with open cage fullerene polymer and MoS2 for enhanced electrochemical hydrogen evolution activity,
+International Journal of Hydrogen Energy,
+Volume 47, Issue 42,
+2022,
+Pages 18261-18271,
+ISSN 0360-3199,
+https://doi.org/10.1016/j.ijhydene.2022.04.013.
+(https://www.sciencedirect.com/science/article/pii/S0360319922014781)
+Abstract: Development of advanced materials for electrocatalytic water splitting to generate hydrogen is the key in utilization of renewable energy. In the present work, we constructed three-dimensional (3D) nanoparticles (P-PC60@MoS2) based on an open-cage fullerene polymer (P-PC60), on the surface of which two-dimensional (2D) molybdenum disulfide (MoS2) are grafted vertically. The rational design endows the nanocomposite materials with combined advantages of open-cage fullerenes and MoS2. Especially, compared with traditional fullerenes, polymeric fullerene derivatives are expected to have remarkable electronic, optical, or catalytic properties due to the formation of an interconnected continuous network. The results indicate that the few-layer MoS2 slices arranged vertically on the surface of the fullerene, showing an expanded layer spacing of 6.4 Å, which is beneficial for maximally exposing active edge sites. The hybrid P-PC60@MoS2 with proper synthetic engineering possesses superior catalytic kinetics with surpassing overpotential of 59 mV, Tafel slope of 37 mV dec−1, which are much lower than those of pure MoS2 and P-PC60. The small values indicate fast electrochemical hydrogen evolution reaction (HER) kinetics.
+Keywords: Hydrogen evolution reaction; Open-cage fullerene polymer; Molybdenum disulfide; Energy storage and conversion; Electrochemical catalytic
+
+Yingfu Bai, Di Wang, Zhi Zhang, Jincheng Pan, Zhengbo Cui, Deng-Guang Yu, Sim-Wan Annie Bligh,
+Testing of fast dissolution of ibuprofen from its electrospun hydrophilic polymer nanocomposites,
+Polymer Testing,
+Volume 93,
+2021,
+106872,
+ISSN 0142-9418,
+https://doi.org/10.1016/j.polymertesting.2020.106872.
+(https://www.sciencedirect.com/science/article/pii/S0142941820321012)
+Abstract: The dissolution of poorly water-soluble drug poses a big challenge to the researchers in drug discovery. Electrospun nanofibers have been broadly demonstrated as good candidates for resolving this issue. However, the testing methods are often indiscriminate with the drug sustained release profiles. In this study, a new coaxial solid core spinneret was developed to carry out the preparation of ibuprofen (IBU)-loaded polyvinylpyrrolidone (PVP) nanofibers. These nanofibers have an average diameter of 740 ± 130 nm with linear morphology, smooth surface and smooth cross-section without any solid phase separation, as verified by SEM images. XRD and DSC results suggested that IBU presented in the fibers in an amorphous state thanks to their fine compatibility, as disclosed by FTIR spectra. Four different methods (a polarized microscope, an artificial tongue, a contact angle meter, and the in vitro dissolution tests) are exploited to assess the fast dissolution properties of the fibers. Their results concurred the fine functional performances of electrospun nanofibers on improving the dissolution rate of IBU from different standpoints, with 100.3 ± 4.2% of the loaded IBU freed into the dissolution media within the first minute. They are synergistic effects of hydrophilic polymer, large surface and porosity of electrospun nanofiber mats, and amorphous state of the drug.
+Keywords: Polymeric nanocomposite; Amorphous; Hydrophilic; Electrospinning; Fast dissolution; Polymer testing
+
+P. Pissis, C. Pandis, P. Maroulas, A. Kyritsis, E. Kontou,
+Electrical/Dielectric Measurements for Monitoring Polymerization, Morphology and Mechanical Integrity in Polymer Nanocomposites,
+Procedia Engineering,
+Volume 114,
+2015,
+Pages 598-605,
+ISSN 1877-7058,
+https://doi.org/10.1016/j.proeng.2015.08.110.
+(https://www.sciencedirect.com/science/article/pii/S187770581501749X)
+Abstract: Electrical and dielectric measurements are a powerful tool for following in real time physical and chemical processes, evolution of morphology and mechanical integrity in complex polymeric systems. Here we employ electrical dc measurements and broadband dielectric spectroscopy (DS) to follow the state of polymerization and curing processes in polymer/clay nanocomposites and the quality of filler dispersion, alignment and integrity of carbon nanotubes (CNTs) in various polymer/CNT nanocomposites, focusing on fundamental aspects of the various processes involved.
+Keywords: electrical conductivity; dielectric spectroscopy; polymer nanocomposites; polymerization and curing; quality of filler dispersion; electrical percolation; alignment of CNTs
+
+Xue Wan, Yang He, Yanju Liu, Jinsong Leng,
+4D printing of multiple shape memory polymer and nanocomposites with biocompatible, programmable and selectively actuated properties,
+Additive Manufacturing,
+Volume 53,
+2022,
+102689,
+ISSN 2214-8604,
+https://doi.org/10.1016/j.addma.2022.102689.
+(https://www.sciencedirect.com/science/article/pii/S221486042200094X)
+Abstract: 4D printing of shape memory polymers (SMPs) endows the 3D printed structures with tunable shape-changing behavior and functionalities that opens up new avenues towards intelligent devices. Multiple-SMPs, specially, could memorize more than two shapes that have greatly extended the performance of 4D printed structures. However, the actuation to trigger the shape change of 4D printed multiple-SMPs is usually by direct heating to different temperatures. It hasn’t brought the full superiority of the programmability of multiple-SMPs with distinct responsive regions that could be sequentially and selectively actuated by various stimuli. Besides, the functionality of multi-material based additive manufacturing is another area that has not been fully developed. Herein, 4D printing of poly (D,L-lactide-co-trimethylene carbonate) (PLMC)/poly (trimethylene carbonate) (PTMC)/Fe3O4 multi-material with multiple shape-changing capabilities under sequential stimuli of remotely magnetic field and heat was achieved. At first, we optimized the composition of pure SMP to fine tune the multiple shape memory effect and quantitatively characterized the shape recovery by stepwise heating. Then with the addition of Fe3O4 nanoparticles, the multi-material distribution of 4D printed structure consisting of multiple-SMP and its nanocomposites was designed. The integration of multi-material additive manufacturing with multiple shape memory effect extends the shape transformation to quintuple complex shapes with accurate and local controllability under selective multi-stimuli. The 4D printed multiple-SMP and its nanocomposites with simultaneously thermo- and magnetic- responsive shape-changing capability also demonstrated excellent biocompatibility. This work thus offers a feasible and robust approach for 4D printing of multi-functional devices for broad applications in entertainment, robotics, biomedical field and beyond.
+Keywords: 4D printing; Shape memory polymer; Multiple shape memory; Magnetic field; Biocompatible
+
+Fatima Zohra Zeggai, Mohammed Belbachir, Benjamin Carbonnier, Abdelkader Rahmouni, Bachari Kaldoun,
+Dataset for synthesis of conducting polymers nanocomposites based on aniline and 4-amino-benzylamine catalyzed by chromium (III) exchanged maghnite (Algerian MMT) via in situ polymerization,
+Data in Brief,
+Volume 29,
+2020,
+105161,
+ISSN 2352-3409,
+https://doi.org/10.1016/j.dib.2020.105161.
+(https://www.sciencedirect.com/science/article/pii/S235234092030055X)
+Abstract: In this data we report on conductors polymers nanocomposites synthesized by in situ polymerization of aniline (ANI) and/or 4-aminobenzylamine (4-ABA) in presence of chromium montmorillonite (MMT-Cr+3) and ammonium persulfate as oxidizing agent. Homopolymers and copolymers (PANI-co-4-ABA) were prepared at various initial monomer composition and were characterized by Fourier transform Infrared (FT-IR) and UV–vis spectroscopy, X-ray diffraction (XRD) and cyclic voltammeter. The data describes the behavior of the corresponding homopolymers Poly (4-ABA) and (PANI) and showed that the in-situ polymerization produced real nanocomposites containing aniline and 4-aminobenzylamine units and films of products exhibit good electrochemical properties.
+Keywords: Polyaniline; Nanocomposites; In situ polymerization; Poly (4-aminobenzylamine); Montmorillonite clay
+
+Sudeep Sharma, Gagan Bahadur Pradhan, Ashok Chhetry, Kumar Shrestha, Trilochan Bhatta, Shipeng Zhang, Dongkyun Kim, Seonghoon Jeong, Youngdo Shin, Md. Abu Zahed, Xue Hui, Jae Yeong Park,
+Graphene-polymer nanocomposites electrode with ionic nanofibrous membrane for highly sensitive supercapacitive pressure sensor,
+Nano Today,
+Volume 48,
+2023,
+101698,
+ISSN 1748-0132,
+https://doi.org/10.1016/j.nantod.2022.101698.
+(https://www.sciencedirect.com/science/article/pii/S1748013222003267)
+Abstract: Wearable pressure sensors have obtained significant interests owing to their diverse applications in electronic skins and smart health informatics. Ultrahigh sensitivity, wide linearity, and better pressure resolution are highly desirable attributes of the pressure sensors for versatile applications. Here, a flexible supercapacitive pressure sensor (SPS) based on a novel reversible ion pumping mechanism is reported that remarkably increases the pressure sensitivity over a broad linear range exceeding the limits of the existing iontronic pressure sensors. The SPS is composed of lower concentration ionic nanofibrous membrane between two graphene-polymer nanocomposite electrolyte films, which engages in ion pumping, triggering a high electrical double layer capacitance under external stimuli. The fabricated SPS exhibited an ultra-high sensitivity of 9029 kPa−1 over wide linear range (0–100 kPa) with outstanding pressure resolution of 0.446%. Additionally, a wireless fitness tracker system is successfully demonstrated by integrating the SPS, which can monitor the food consumption and posture of users to improve their lifestyle.
+Keywords: Supercapacitive; Flexible pressure sensor; Iontronic sensing; Nanofibrous membrane; Nanoporous carbon; Posture monitoring
+
+Yasser Zare, Hamid Garmabi,
+Modeling of interfacial bonding between two nanofillers (montmorillonite and CaCO3) and a polymer matrix (PP) in a ternary polymer nanocomposite,
+Applied Surface Science,
+Volume 321,
+2014,
+Pages 219-225,
+ISSN 0169-4332,
+https://doi.org/10.1016/j.apsusc.2014.09.156.
+(https://www.sciencedirect.com/science/article/pii/S0169433214021473)
+Abstract: In this paper, the adhesion at the interface between two nanofillers (montmorillonite and CaCO3) and a polymer matrix (PP) in a ternary polymer nanocomposite is analyzed by modeling of mechanical properties. Also, Sato–Furukawa model is simplified for calculation of tensile modulus in the ternary nanocomposites. Moreover, linear and quadratic models are well examined for yield strength of the ternary samples. A good agreement is observed between the experimental results and the predictions, which validate the current modeling for a ternary system. Although the present ternary samples contain a high content of nanoparticles, the theoretically obtained parameters by several models confirm the existence of a good interfacial adhesion between both nanofillers and PP matrix. Additionally, all studied models demonstrate the largest level of interfacial bonding in samples containing 4wt% of MMT and different CaCO3 contents (2–20wt%).
+Keywords: Ternary polymer nanocomposites; Adhesion at the interface; Mechanical properties.
+
+N. Gowriboy, R. Kalaivizhi, M.R. Ganesh, K.A. Aswathy,
+Development of thin film polymer nanocomposite membrane (ZIF-8@PSf/CS) for removal of textile pollutant and evaluating the effect of water samples on human monocytic cell lines (THP-1) using flow cytometer,
+Journal of Cleaner Production,
+Volume 377,
+2022,
+134399,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2022.134399.
+(https://www.sciencedirect.com/science/article/pii/S0959652622039713)
+Abstract: The textile industry is responsible for one of the biggest environmental contamination problems in the world because they release unwanted dye effluents. This work proposes the use of polymer materials and nanomaterials in combination to address these difficulties in a variety of ways. In order to create a thin film-based membrane material for the removal of dye pollutants, ZIF-8 nanomaterial has been introduced into poly sulfone (PSf) and Chitosan (CS) blend polymeric material by phase inversion process. The physiochemical characteristics of prepared thin film membrane materials were investigated by using various techniques such as FT-IR, XRD, FE-SEM, AFM, BET, TGA and Mechanical strength analysis. Four common organic dyes Methylene Blue (MB), Rhodamine Blue (Rh. B), Acid Blue (AB) and Congo Red (CR) were used in dye adsorption tests. When the prepared material was tested with a sample of the effluent from the textile industry, the concentrations of all physio-chemical parameters indicated a considerable decrease when comparison to the concentration in the real textile effluent. In addition, the cytotoxicity analysis of the water samples and membrane samples was tested on human monocytic cell lines (THP -1) using flow cytometer. Furthermore, the composition of ZIF-8@PSf/CS membrane material displayed remarkable anti-bacterial characteristics for both gramme positive and gramme negative strains of Staphylococcus aureus and pseudomonas aeruginosa.
+Keywords: Adsorption studies; Antibacterial properties; Dye removal; Textile effluent; Thin film membrane material; Wastewater treatment
+
+Yingxiang Li, Hui Lu, Zhong-Yan Zhang, Hong Liu, Zhao-Yan Sun,
+Network formation and mechanical stretching of nanocomposite fabricated by crosslinking reaction of polymer-grafted nanoparticles,
+Composites Science and Technology,
+Volume 227,
+2022,
+109605,
+ISSN 0266-3538,
+https://doi.org/10.1016/j.compscitech.2022.109605.
+(https://www.sciencedirect.com/science/article/pii/S0266353822003475)
+Abstract: Using the molecular dynamics simulation method, we study the formation of cross-linked network material through the chains end-group reaction of grafted nanoparticles. In this work, we emphasize that a reaction-limited process is more preferential to fabricate a crosslinked network structure with relatively homogeneous crosslinking points. Besides, we find the length of grafted chains is crucial for regulating the distribution of crosslinking points and the mechanical properties in such kind of composite material. Particularly, we propose a method by defining the heterogeneity parameter to quantify the inhomogeneous distribution of the crosslinking points in the composite. Our simulation study provides theoretical support for the development and application of requirement cross-linked grafted nanocomposites.
+Keywords: Stress/strain curve; Mechanical properties; Deformation; Molecular dynamics
+
+Hossein Alinezhad, Mohammad Zabihi, Davoud Kahfroushan,
+Design and fabrication the novel polymeric magnetic boehmite nanocomposite (boehmite@ Fe3O4@PLA@SiO2) for the remarkable competitive adsorption of methylene blue and mercury ions,
+Journal of Physics and Chemistry of Solids,
+Volume 144,
+2020,
+109515,
+ISSN 0022-3697,
+https://doi.org/10.1016/j.jpcs.2020.109515.
+(https://www.sciencedirect.com/science/article/pii/S0022369719327118)
+Abstract: The main aim of this study is to fabricate the magnetic polymeric nanocomposite supported on the mesoporous boehmite by the facile preparation method. The core-shell magnetic boehmite was synthesized by the co-precipitation method. The coverage of polymeric layers (polylactic acid) was applied to modify the surface of magnetic boehmite for the adsorption of methylene blue and mercury ions in the single and binary solutions. The prepared samples were characterized by employing general tests including XRD, FTIR, FESEM, TEM, XPS, BET and VSM. TEM and FESEM images displayed the well dispersed nanoparticles in the structure of nanocomposites with size of less than 40 nm. The isotherm adsorption of the adsorbent was evaluated by using Langmuir, Freundlich and the extended Langmuir in the single and multicomponent aqueous solutions. The experimental data was in the good agreement with Langmuir equation in the both unary and co-adsorption process. The capacity of the magnetic polymeric nanocomposite was measured to be 70.03 and 36.94 mg/g for the adsorption of methylene blue and mercury ions, respectively. The amount of adsorbed mercury and methylene blue ions in the competitive adsorption was calculated to be 14.93 and 10.17 mg/g, respectively. The kinetic study was also conducted by two various models including pseudo first and second order models. The results indicated that the pseudo second order can justify the adsorption in the single and binary solutions. Reusability of the prepared sample in the competitive adsorption for six cycles indicated the appropriate performance of the used adsorbent for the industrial applications.
+Keywords: Polylactic acid; Boehmite; Magnetite; Competitive adsorption; Mercury
+
+A. Madhan Kumar, Mohd Yusuf Khan, Abuzar Khan, M.A. Hussein, Hatim Dafalla, Su Hwa Jang, Suresh Ramakrishna,
+Novel polymer nanocomposite based on polypyrrole and ZrO2 reinforced BN nanosheets: Prospective utilization as implant coatings for TiNbZr bio-implant alloy,
+Materials Chemistry and Physics,
+Volume 287,
+2022,
+126205,
+ISSN 0254-0584,
+https://doi.org/10.1016/j.matchemphys.2022.126205.
+(https://www.sciencedirect.com/science/article/pii/S0254058422005119)
+Abstract: Providing Ti-alloy with tunable corrosion resistance and biocompatible characteristics can yield a preferred implant surface to aid an optimistic bone healing. An electrochemically synthesized nanocomposite coating based on polypyrrole (PPy) and ZrO2 decorated boron nitride (ZrO2-BN) nanosheets was explored as polymeric bioactive coatings for TiNbZr alloy in orthopedic applications. In vitro corrosion resistance and biocompatibility of PPy/ZrO2-BN nanocomposite coatings were systematically inspected by correlating them with the structural and surface microstructural changes observed in the prepared coatings. The positive role of ZrO2 addition on BN nanosheets was evaluated using surface and structural analyses in terms of its improvement on homogeneous dispersion and interfacial interaction with the host PPy matrix. Bio-corrosion test results in Hank's solution confirmed that PPy coatings with the inclusion of 15 mg/L of ZrO2-BN provided the best surface protective performance against corrosion among the investigated specimens. In vitro biocompatibility assay was performed on MG63 osteosarcoma cell lines and the obtained results confirmed the beneficial role of ZrO2-BN nanosheets in improving the bioactivity of PPy coatings on the Ti surface. The obtained results showed that the beneficial role of ZrO2-BN nanosheets in improving the surface wettability, in vitro biocompatibility and corrosion protection performance of PPy coatings on Ti surface suggests a possible candidate for biomedical applications.
+Keywords: Ti-alloy; Polypyrrole coatings; BN nanosheets; Corrosion; Biocompatibility
+
+H. Baniasadi, J. Seppälä,
+Novel long-chain aliphatic polyamide/surface-modified silicon dioxide nanocomposites: in-situ polymerization and properties,
+Materials Today Chemistry,
+Volume 20,
+2021,
+100450,
+ISSN 2468-5194,
+https://doi.org/10.1016/j.mtchem.2021.100450.
+(https://www.sciencedirect.com/science/article/pii/S2468519421000306)
+Abstract: A new kind of long-chain aliphatic polyamide (PA1218) with a relatively low melting point, high molecular weight, and stable mechanical properties at humid conditions was successfully developed via a polycondensation reaction between 1,18-octadecanedioic acid and 1,12-diaminodecane. Additionally, oleic acid-surfaced modified silicon dioxide (SSD) was prepared and employed to improve the properties of PA1218 through in-situ polymerization. FT-IR spectra and TGA thermograms confirmed the successful surface modification of nanoparticles, and consequently, 5% substitution of surface hydroxyl groups of SiO2 nanoparticles with oleic acid molecules. Moreover, the thermomechanical and rheology tests revealed a significant improvement in nanocomposites’ properties compared to the pure PA1218; for instance, the tensile strength and storage modulus were increased by 22% and 40%, respectively in the sample containing 3% SSD nanoparticles. This improvement, along with SEM images, confirmed the uniform dispersion of SSD nanoparticles through the employed in-situ polymerization and excellent compatibility between inorganic and organic phases, which was achieved via surface modification. Finally, all the samples demonstrated a water uptake capacity of less than 0.6% attributed to the high methylene/amide ratio in their backbones, causing these newly developed nanocomposites to be notable candidates for specific engineering applications.
+Keywords: Long-chain aliphatic polyamide; Surface modification; Silicon dioxide
+
+Y.K. Mashkov, V.A. Egorova, O.V. Chemisenko, O.V. Maliy,
+Polymer Nanocomposites Development and Research for Petrochemical and Oil and Gas Production Equipment,
+Procedia Engineering,
+Volume 152,
+2016,
+Pages 545-550,
+ISSN 1877-7058,
+https://doi.org/10.1016/j.proeng.2016.07.653.
+(https://www.sciencedirect.com/science/article/pii/S1877705816320616)
+Abstract: The research and development results of new anti-friction polymer nanocomposites based on polytetrafluoroethylene characterized with an increased wear resistance due to the polymer matrix with complex fillers-modifiers modification are presented in the paper. Fillers include micro- and nanoscale components of different nature and the particles geometry having specific surface and surface free energy high values. These factors provide the polymer matrix high-performance structural modification and significant increase in nanocomposites wear resistance in dry boundary friction.
+Keywords: polymer nanocomposites; carbon nanotubes; white carbon; cryptocrystalline graphite; polytetrafluoroethylene; wear resistance.
+
+Erik Laurini, Domenico Marson, Maurizio Fermeglia, Sabrina Pricl,
+Multimodel approach for accurate determination of industry-driven properties for Polymer Nanocomposite Materials,
+Journal of Computational Science,
+Volume 26,
+2018,
+Pages 28-38,
+ISSN 1877-7503,
+https://doi.org/10.1016/j.jocs.2018.03.002.
+(https://www.sciencedirect.com/science/article/pii/S1877750317312292)
+Abstract: The need for effective and efficient design and production of sophisticated materials with advanced performances on a competitive time scale is strongly driving the integration of material modeling and simulation techniques into material selection decision processes. Specifically, for complex structural materials such as polymer-based nanocomposites (PNCs), there is a strong industrial demand for chemistry/physics-based models and modeling workflows able to predict relevant material properties in an accurate and reliable way. Under this perspective, in this work we describe the application of multiscale molecular modeling techniques for the choice of PNC materials for aerospace applications. The results are obtained in the framework of the European project Multi-scale Composite Material Selection Platform with a Seamless Integration of Materials Models and Multidisciplinary Design Framework (COMPOSELECTOR), funded by the European Commission within the H2020 call Advancing the integration of materials modeling in business processes to enhance effective industrial decision making and increase competitiveness.
+Keywords: Molecular simulations; Computational recipes; Polymer nanocomposites; Material properties prediction; Experimental validation
+
+Prashant Shukla, Pooja Saxena, Devinder Madhwal, Nitin Bhardwaj, V.K. Jain,
+Electrostatically functionalized CVD grown multiwalled carbon nanotube/ palladium polymer nanocomposite (MWCNT/Pd) for methane detection at room temperature,
+Chemical Engineering Science,
+Volume 264,
+2022,
+118191,
+ISSN 0009-2509,
+https://doi.org/10.1016/j.ces.2022.118191.
+(https://www.sciencedirect.com/science/article/pii/S0009250922007758)
+Abstract: By reducing the aqueous mixture of electrostatically modified or functionalized multi-walled carbon nanotubes (f-MWCNT) and palladium (Pd) using sodium borohydride (NaBH4), a nanocomposite was synthesized. The morphology of the f-MWCNT and f-MWCNT/ Pd nanocomposite was investigated by analytical tools FESEM and TEM respectively. f-MWCNTs matrix reinforced with Pd nanoparticles are utilized for sensing methane with its dilution varying from 0.5 to 100 ppm in air at room temperature (RT = 27 °C). The f-MWNT/Pd nanocomposite-based sensor for methane gas show several merits over conventional catalytic beads and metal oxide semiconductor (MOS) based sensors in context of reduced size, reduced power consumption and ease of fabrication. The temporal electrical responses of the nanocomposite to methane were measured at RT. It exhibited a response magnitude of ∼19.5–41.71 % with a small variation of ± 2 % towards 0.5–500 ppm methane. Furthermore, the responses were extremely reversible and repeatable, implying that it may be used to detect methane at ambient temperature. It has also been experimentally observed that an excellent response time (≈ 20 s) and the recovery time (≈ 25 s) for these devices were recorded for methane. The effect of environmental temperature and humidity were also studied on the methane sensor for the analysis of their long-term stability and self-life. The results showed that very small change is observed over a wide of temperature from 25 to 70 °C and that for %Rh from 20 to 90 %. Therefore, the reported methane sensor absolutely demonstrated long-term stability at ambient conditions and hence, these devices can prove to be ideal for methane leakage detection for practical real time applications. A sensing mechanism by which methane is detected by f-MWCNT/Pd nanocomposite is also elaborately discussed.
+Keywords: Sensor; Methane; MWCNT; Electrostatic; MOS; Responsivity
+
+Chao Wu, Yanzhang Fu, Yingjun Zeng, Guochun Chen, Xiaochuan Pan, Fan Lin, Lida Xu, Qinnan Chen, Daoheng Sun, Zhenyin Hai,
+Ultrafast high-temperature sintering of polymer-derived ceramic nanocomposites for high-temperature thin-film sensors,
+Chemical Engineering Journal,
+Volume 463,
+2023,
+142518,
+ISSN 1385-8947,
+https://doi.org/10.1016/j.cej.2023.142518.
+(https://www.sciencedirect.com/science/article/pii/S1385894723012494)
+Abstract: Polymer-derived ceramic nanocomposites (PDC-NCs) are promising materials for high-temperature thin-film sensor (TFS) applications. However, owing to their inherent high-resistance characteristics and the high-temperature furnace sintering process, it is difficult to integrate PDC-NCs with high-conductive and low high-temperature tolerant alloy/metal components. In this study, an ultrafast high-temperature sintering (UHS) method was employed to prepare PDC-NC TFSs in minutes. The TiB2/SiCNO film sintered by the UHS technique shows high-sensitive microstructure and properties to sintering parameters. The UHS technique allows rapid sintering toward the desired phase, controls the grain size and microstructure, promotes the precipitation of free carbon in the SiCNO matrix within minutes, and suppresses high-temperature oxygen pollution. For example, TiB2/SiCNO films show high conductivity (18.1 S cm−1 at room temperature) and high-temperature stability (up to 800 ℃). In comparison, these properties are orders of magnitude better than those of samples sintered in the furnace. High-quality films sintered using ultrafast heating and cooling rates can also withstand thermal shocks of up to 1000 ℃. With the UHS technique, high-quality and high-conductivity films can be prepared using an ultrafast sintering rate to prevent substrate thermal damage. The TiB2/SiCNO thin-film strain gauge with high sensitivity (GF = 8.6) and low thermal noise was fabricated on alloy substrates, and its high-temperature (25–800 ℃) strain sensing performance was verified. This method offers a new route for co-sintering devices with alloy/metal substrates that suffer from low high-temperature tolerance and regulating the microstructure and electrical performance of these devices.
+Keywords: Ultrafast high-temperature sintering; Thin-film strain gauge; Polymer-derived ceramics; Conductive property
+
+Bingxin Liu, Xiaodan Lü, Chunyu Wang, Cuiyan Tong, Yao He, Changli Lü,
+White light emission transparent polymer nanocomposites with novel poly(p-phenylene vinylene) derivatives and surface functionalized CdSe/ZnS NCs,
+Dyes and Pigments,
+Volume 99, Issue 1,
+2013,
+Pages 192-200,
+ISSN 0143-7208,
+https://doi.org/10.1016/j.dyepig.2013.04.038.
+(https://www.sciencedirect.com/science/article/pii/S0143720813001678)
+Abstract: A series of new polymers with conjugated poly(p-phenylene vinylene) units and non-conjugated poly(p-xylylene) units containing vinyl and carboxyl groups were synthesized. The monodisperse CdSe/ZnS nanocrystals with a red light emission were prepared by using the phosphine-free precursors. A novel fluorescent polymer and 5-(2-methacryloylethyloxymethyl)-8-quinolinol were dispersed in vinyl monomers containing CdSe/ZnS NCs to successfully fabricate transparent bulk nanocomposites by in situ polymerization. The 5-(2-methacryloylethyloxymethyl)-8-quinolinol molecules can be coordinated to the surface of CdSe/ZnS nanocrystals to form a metalloquinolate with green light emission at about 500 nm, while the red light emission of nanocrystals remained after the polymerization process. The efficient white light emitting polymer nanocomposites with color coordinates (0.32, 0.34) can be obtained when the weight ratio of nanocrystals to 5-(2-methacryloylethyloxymethyl)-8-quinolinol is 10:1. A charge transfer from the photoexcited metalloquinolates to the nanocrystals was observed in the system.
+Keywords: White light emission; MEH-PPV derivatives; CdSe/ZnS NCs; Polymer nanocomposites; 8-Hydroxyquinoline; Surface functionalization
+
+Yasser Zare,
+A simple technique for determination of interphase properties in polymer nanocomposites reinforced with spherical nanoparticles,
+Polymer,
+Volume 72,
+2015,
+Pages 93-97,
+ISSN 0032-3861,
+https://doi.org/10.1016/j.polymer.2015.06.060.
+(https://www.sciencedirect.com/science/article/pii/S0032386115300811)
+Abstract: This study explains a simple method for characterization of interphase properties in polymer nanocomposites reinforced with spherical nanoparticles. The Leidner–Woodhams model which predicts the tensile strength of interphase (σi) is properly developed, in which the stress concentration parameter is correlated with “B” interfacial parameter in modified Pukanszky model. Also, the thickness of interphase “ri” is expressed as a function of “B” and “σi” and the effects of key parameters on the properties of interphase are well discussed. The suggested equations are applied to some samples from valid literature and the values of “B”, “σi” and “ri” are calculated. The developed model suggests logical values for “σi” which shows the applicability of the proposed model for these polymer nanocomposites. A large range for “ri” and “σi” is obtained for the reported samples based on the various properties of matrix, nanofiller and interphase such as “σm”, “r” and “B”. In addition, the results show that a larger “B” and a smaller “σi” can provide a thicker interphase in the present nanocomposites.
+Keywords: Polymer particulate nanocomposites; Interphase; Mechanical properties
+
+Yasser Zare,
+Effects of interphase on tensile strength of polymer/CNT nanocomposites by Kelly–Tyson theory,
+Mechanics of Materials,
+Volume 85,
+2015,
+Pages 1-6,
+ISSN 0167-6636,
+https://doi.org/10.1016/j.mechmat.2015.02.002.
+(https://www.sciencedirect.com/science/article/pii/S0167663615000423)
+Abstract: The micromechanics models for composites usually underpredict the tensile strength of polymer nanocomposites. This paper establishes a simple model based on Kelly–Tyson theory for tensile strength of polymer/CNT nanocomposites assuming the effect of interphase between polymer and CNT. In addition, Pukanszky model is joined with the suggested model to calculate the interfacial shear strength (τ), interphase strength (σi) and critical length of CNT (Lc). The proposed approach is applied to calculate τ, σi and Lc for various samples from recent literature. It is revealed that the experimental data are well fitted to calculations by new model which confirm the important effect of interphase on the properties of nanocomposites. Moreover, the derived equations demonstrate that dissimilar correlations are found between τ and B (from Pukanszky model) as well as Lc and B. It is shown that a large B value obtained by strong interfacial adhesion between polymer and CNT is adequate to reduce Lc in polymer/CNT nanocomposites.
+Keywords: Polymer/CNT nanocomposites; Interface/interphase; Tensile strength; Micromechanics modeling
+
+Bandar Ali Al-Asbahi,
+Tuning photophysical properties of PFO conjugated polymer for enhancing polymer light emitting diode performance via addition of SiO2/TiO2 nanocomposite,
+Journal of Molecular Structure,
+Volume 1261,
+2022,
+132946,
+ISSN 0022-2860,
+https://doi.org/10.1016/j.molstruc.2022.132946.
+(https://www.sciencedirect.com/science/article/pii/S0022286022006159)
+Abstract: Tuning photophysical properties of poly(9,9′-di-n-octylfluorenyl-2.7-diyl) (PFO) by addition SiO2/TiO2 nanocomposites (STNCs) with different weight ratios is demonstrated. The PFO/STNCs thin films were prepared successfully by solution blending method followed by spin coating technique. The structure properties were investigated via X-ray diffraction (XRD) and field emission scanning electron microscope (FE-SEM). The optical properties were determined by using UV–Vis and photoluminescence spectrophotometer, while a Keithley 238 measurement system and HR2000 Ocean Optic Spectrometer were employed to investigate the optoelectronic properties of the PFO/STNCs based polymer light emitting diodes (PLED). The dominant phase in the PFO/STNCs thin films was for the broad hump of PFO and no variation on structure of PFO was observed upon increment the STNCs content. The aggregation of the thin films with higher STNCs content was evidenced theoretically by S-factor calculations and experimentally by FE-SEM images. The extension in the PFO conjugation length upon addition the STNCs, which plays unique role for improvement the performance of PLED devices as proved here by current density and luminance measurements, was evidenced by the systematic red shift of absorption peak of the PFO and vibronic band transitions and extended absorption tail as well.
+Keywords: Photophysical properties; PFO; SiO2/TiO2 nanocomposites; Conjugation length; PLED
+
+Oluwasesan Adegoke, Niamh Nic Daeid,
+Polymeric-coated Fe-doped ceria/gold hybrid nanocomposite as an aptasensor for the catalytic enhanced colorimetric detection of 2,4-dinitrophenol,
+Colloids and Surfaces A: Physicochemical and Engineering Aspects,
+Volume 627,
+2021,
+127194,
+ISSN 0927-7757,
+https://doi.org/10.1016/j.colsurfa.2021.127194.
+(https://www.sciencedirect.com/science/article/pii/S0927775721010633)
+Abstract: The Meisenheimer charge transfer reaction has, for many years, been the predominant mode of interaction to detect explosive compounds via the naked eye. However, this method is majorly sensitive to 2,4,6-trinitrotoluene and insensitive to many other explosive compounds. In this work, we report on the development of a novel aptamer-based amphiphilic polymer-coated Fe-doped ceria/gold (Au) hybrid nanocomposite (NC) as a peroxidase mimetic nanozyme for explosive colorimetric detection. Polymeric-Fe-doped ceria NC was synthesized and incorporated in-situ in the hydrothermal synthetic pot of citrate-Au nanoparticles to form a polymer-Fe-doped ceria/Au NC. A streptavidin (strep)-biotinylated DNA aptamer (B-Apt) binding complex was immobilised on the polymer-Fe-doped ceria/Au NC surface and the modified NC was used as a functional nanozyme in a peroxidase mimic assay to catalyse the oxidation of 3,3′,5,5′-tetramethylbenzidine by H2O2. Screening of several explosives showed that 2,4-dinitrophenol (DNP) bonded with higher affinity to the aptamer based on the selective greenish colorimetric catalytic reaction observed. The peroxidase mimetic activities of several nanozymes were tested and our analysis showed that the polymer-Fe-doped ceria/Au NC generated enhanced catalytic activity for DNP detection. Several optimisation reactions including the kinetic reaction mechanism was conducted and a limit of detection of 0.45 µg/mL (2.4 µM) was obtained for DNP recognition. The peroxidase mimetic strep-B-Apt-polymer-Fe-doped ceria/Au NC biosensor was successfully applied for the detection of DNP in tap water and river water with satisfactory recoveries in the range of 97–117%.
+Keywords: Nanocomposite; Colorimetric; Peroxidase; Nanozyme; Polymer; Detection
+
+Yasser Zare,
+Development of Halpin-Tsai model for polymer nanocomposites assuming interphase properties and nanofiller size,
+Polymer Testing,
+Volume 51,
+2016,
+Pages 69-73,
+ISSN 0142-9418,
+https://doi.org/10.1016/j.polymertesting.2016.02.010.
+(https://www.sciencedirect.com/science/article/pii/S0142941816300575)
+Abstract: The Halpin-Tsai model for Young's modulus of composites is developed for polymer nanocomposites reinforced with spherical nanoparticles assuming interphase properties (volume fraction, thickness and modulus) and nanofiller size. The accuracy of the developed model was evaluated by experimental data on various samples. Moreover, the interphase properties can be calculated by comparing the experimental data with model predictions. The main effects of nanoparticle and interphase sizes, as well as interphase modulus, on Young's modulus of nanocomposites are also described. The results show that the developed model can accurately predict the Young's modulus of polymer particulate nanocomposites assuming the role of the interphase. It is revealed that, disregarding the interphase or using unsuitable values for interphase properties, leads to inappropriate estimation of Young's modulus in nanocomposites.
+Keywords: Polymer nanocomposites; Young's modulus; Modeling; Interphase properties; Filler size
+
+Manohara Dhulappa Jalageri, Yashoda Malgar Puttaiahgowda,  Hariprasad,
+Design and antimicrobial activity of piperazine polymer nanocomposite,
+Materials Today: Proceedings,
+Volume 15, Part 2,
+2019,
+Pages 262-267,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2019.05.003.
+(https://www.sciencedirect.com/science/article/pii/S2214785319307941)
+Abstract: Eco-friendly technique was adopted for the preparation of piperazine polymer nanocomposites is developed via green synthetic route in one-pot approach. The structure and properties of polymer nanocomposite were confirmed by using UV-Visible spectroscopy, XRD and SEM. The synthesized piperazine nanocomposite showed very good antimicrobial activity against gram-negative bacteria Escherichia coli (5.0-11.6 mm diameter) and gram-positive bacteria Staphylococcus aureus (4.6-8.6 mm diameter) in comparison with standard ciprofloxacin.
+Keywords: Piperazine polymer; Silver nanoparticle; Nanocomposite; Antimicrobial activity
